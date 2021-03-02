@@ -34,11 +34,12 @@ This is a reading list of papers on NLP for Social Good.
   - [Motivation](#Motivation)
 - [7. (Proactive) NLP for mental health](#7-proactive-nlp-for-mental-health)
   - [Events and Resources](#Events-and-Resources)
-- [8. More reading (for Systematic learning)](#8.-More-reading-for-Systematic-learning)
+- [8. (Proactive) NLP for education](#8-proactive-nlp-for-education)
+- [9. More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
   - [Courses](#Courses)
-- [9. Engagement from Non-Academic Areas](#9.-Engagement-from-Non-Academic-Areas)
+- [10. Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
   - [Non-Profit Movements](#Non-Profit-Movements)
-- [10. Resources of (general) AI for social good](#10.-Resources-of-general-AI-for-social-good)
+- [11. Resources of (general) AI for social good](#11.-Resources-of-general-AI-for-social-good)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -260,8 +261,37 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 ## 8. (Proactive) NLP for education
 
+#### Improving textbooks
+1. (ACM Symposium 2010) **Enriching Textbooks Through Data Mining.** _Rakesh Agrawal, Sreenivas Gollapudi, Krishnaram Kenthapadi, Nitish Srivastava, Raja Velu_. [[pdf](http://theory.stanford.edu/~kngk/papers/enrichingTextbooksThroughDataMining-DEV2010.pdf)]
+#### Automatic grading
+1. (EMNLP 2016) **A Neural Approach to Automated Essay Scoring.** _Kaveh Taghipour, Hwee Tou Ng_. [[pdf](https://www.aclweb.org/anthology/D16-1193.pdf)]
+1. (ICCL 2018) **Automated Scoring: Beyond Natural Language Processing.** _Nitin Madnani, Aoife Cahill_. [[pdf](https://www.aclweb.org/anthology/C18-1094.pdf)]
+#### Plagiarism detection
+1. (IPC 2010) **Using Natural Language Processing for Automatic Detection of Plagiarism.** _Miranda Chong, Lucia Specia, Rusian Mitkov_. [[pdf](https://d1wqtxts1xzle7.cloudfront.net/40077408/Using_Natural_Language_Processing_for_Au20151116-27205-18j9w7z.pdf?1447706034=&response-content-disposition=inline%3B+filename%3DUsing_Natural_Language_Processing_for_Au.pdf&Expires=1614716474&Signature=HWqblSJY74yWBo0jzE4c82-dqyAk2ckBxGi1H09FReus2fdP4Y7v13Eupfdds5nA5zBGrgMs6WHqkTgESGaXetdUkzRHHXF6tmFn2618XGLkfoX5Xkl4kyHpmjl5Haq2lGC0rxXtQoSlVnm8K0kJbGVYn3g2ubXscwRTXS7LvzUWYrAokLXEfgqYAcoPoxbVTbdxlKEdbHvqjnUNiTOjnmTQMIAynoyY9QWC-E6N7uskMz69IS4MNwD11pLNi4KFOQnNip5SFZaGwhncmLzJj6KUYaJCH1odj~imz~t99KqwYZ0HQuPj3ZeeQQCSw0n~~GllGpPixB6c6-lC4x3S9w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[poster](http://clg.wlv.ac.uk/news/ChongM_regionalposter2010.pdf)]
+#### Educational Question Answering
 1. (AIED 2015) **Educational Question Answering Motivated by Question-Specific Concept Maps.** _Thushari Atapattu, Katrina Falkner, Nickolas Falkner_. [[pdf](https://scholar.google.com/scholar_url?url=https://www.researchgate.net/profile/Thushari_Atapattu/publication/273460094_Educational_Question_Answering_Motivated_by_Question-Specific_Concept_Maps/links/55a5007008aef604aa0415a7.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=16059197396106165671&ei=g4c-YOaXJo-Ny9YPk6ib2Ac&scisig=AAGBfm2C12qBDEbcS4AiXLBYJ_OTuoVnmQ)]
-1. 
+1. (IEEE 2016) **Question answering system on education acts using NLP techniques.** _Sweta P Lende and MM Raghuwanshi_. [[paper](https://ieeexplore.ieee.org/document/7583963)]
+#### Reading/writing assistants
+(e.g. writing assistants for Microsoft Word or Google Docs)
+1. **Modeling the Relationship between User Comments and Edits in Document Revision.**
+_Xuchao Zhang, Dheeraj Rajagopal, Michael Gamon, Sujay Kumar Jauhar, ChangTien Lu_.
+[[pdf](https://www.aclweb.org/anthology/D19-1505.pdf)]
+1. (CSCW 2020) **Characterizing Stage-Aware Writing Assistance in Collaborative Document Authoring.**
+_Bahareh Sarrafzadeh, Sujay Kumar Jauhar, Michael Gamon, Edward Lank, Ryen White_.
+[[pdf](https://arxiv.org/pdf/2008.08165.pdf)]
+#### First, second (and subsequent) language learning
+1. (The encyclopedia of applied linguistics, 2012) **Natural Language Processing and Language Learning.** _Detmar Meurers_. [[pdf](http://tjure.sfs.uni-tuebingen.de/~dm/papers/meurers-11.pdf)]
+#### Educational data mining from student data logs
+1. (ICEE 2010) **Data Mining and Student e-Learning Profiles.** _Mingming  Zhou._ [[pdf](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/iel5/5589107/5590383/05592904.pdf%3Fcasa_token%3DQanxy6EpahAAAAAA:buomiAvCVRQ8z2iBtWeS-aKYOHrnJyYYZinSpw67943TK1SAQU_ICN3XXYqzhGKEOsUTcLhG&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=17473948150158469748&ei=xZE-YMTKKIi8ywTr17_gDg&scisig=AAGBfm21cr6Y-CdflmrZLTQdfnG_FD9ysg)]
+
+#### Multimodal student-computer interaction
+1. (ICBL 2020) **A Multimodal Human-Computer Interaction System and Its Application in Smart Learning Environments.** _Jiyou Jia, Yunfan He, Huixiao Le_. [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-51968-1_1)]
+
+#### Potential new directions to pursue
+1. NLP for career path counseling
+1. Tools for learners with disabilities
+1. NLP for compiling Google searched articles to youth-friendly teaching materials
+1. Student personalization and engagement: assessment of learners’ language and cognitive skill levels and systems that detect and adapt to learners’ cognitive or emotional states
 
 ## 9. More reading (for Systematic learning)
 
