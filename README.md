@@ -12,34 +12,36 @@ This is a reading list of papers on NLP for Social Good.
   - [1.1 Events/News](#11-eventsnews)
 - [2. Overview Papers](#2-overview-papers)
   - [Proactive NLP](#proactive-nlp)
-  - [Self-Defensive NLP](#self-defensive-NLP)
+  - [Patching NLP's intrinsic problems](#self-defensive-NLP)
 - [3. Equality for all demographics](#4-more-resources)
-  - [3.1 (Self-Defensive) Gender/Demographical bias in models and data](#41-causality-papers-from-schoelkopfs-lab-mpi)
+  - [3.1 \[Patch\] Gender/Demographical bias in models and data](#41-causality-papers-from-schoelkopfs-lab-mpi)
     - [Background](#background)
     - [Some recurring author names](#some-recurring-author-names)
     - [Survey/Overview](#surveyoverview)
     - [Gender vs. Embeddings](#gender-vs-embeddings)
     - [Demographics vs. NLP Model Performance](#demographics-vs-nlp-model-performance)
-- [4. (Proactive) NLP for studying misinformation](#4-proactive-nlp-for-studying-misinformation)
+- [4. [Proactive\] NLP for studying misinformation](#4-proactive-nlp-for-studying-misinformation)
   - [4.1 Propaganda](#41-propaganda)
   - [4.2 Misinformation](#42-misinformation)
   - [4.3 Fake news](#43-fake-news)
   - [4.4 Bias](#44-bias)
   - [4.5 Fact-checking](#45-fact-checking)
-- [5. (Self-Defensive) Mitigating Issues with Dataset Collection](#5-mitigating-issues-with-dataset-collection)
+- [5. \[Patch\] Mitigating Issues with Dataset Collection](#5-mitigating-issues-with-dataset-collection)
   - [5.1 Promoting data ethic norms for the community](#51-promoting-data-ethic-norms-for-the-community)
   - [5.2 User surveys about their data being used](#52-user-surveys-about-their-data-being-used)
   - [5.3 Improving data quality for ML models](#53-improving-data-quality-for-ML)
-- [6. (Proactive + Self-Defensive) NLP for all languages](#6-proactive--self-defensive-nlp-for-all-languages)
+- [6. [Proactive + Patch\] NLP for all languages](#6-proactive--patch-nlp-for-all-languages)
   - [Motivation](#Motivation)
-- [7. (Proactive) NLP for mental health](#7-proactive-nlp-for-mental-health)
+- [7. [Proactive\] NLP for mental health](#7-proactive-nlp-for-mental-health)
   - [Events and Resources](#Events-and-Resources)
-- [8. (Proactive) NLP for education](#8-proactive-nlp-for-education)
-- [9. More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
+- [8. [Proactive\] NLP for education](#8-proactive-nlp-for-education)
+- [9. [Alert for Harm\] NLP for Privacy Invasion/Surveilance](9-alert-for-harm-nlp-for-privacy-invasionsurveilance)
+- [10. [Alert for Harm\] Large Language Models](10-alert-for-harm-large-language-models)
+- [11. More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
   - [Courses](#Courses)
-- [10. Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
+- [12. Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
   - [Non-Profit Movements](#Non-Profit-Movements)
-- [11. Resources of (general) AI for social good](#11.-Resources-of-general-AI-for-social-good)
+- [13. Resources of (general) AI for social good](#11.-Resources-of-general-AI-for-social-good)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -56,17 +58,15 @@ This is a reading list of papers on NLP for Social Good.
 
 1. (ACL 2020) **Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?.** *Kobi Leins, Jey Han Lau, Timothy Baldwin.* 
 
-1. ⭐️ (Cited by 4K+; Daedalus 1980) **Do artifacts have politics?.** Landon Winner. [[pdf](https://web.media.mit.edu/~ascii/papers/winner_1980.pdf)]
-
-   [Summary] Provocative claim that technology be be accurate judged by (1) contributions of efficiency, (2) environmental side effects, and (3) political qualities (i.e., the way they embody specific power and authority). E.g., nuclear power leads to authoritarianism. CORE: tech matters by the social and economic system in which it is embedded.
-
-#### Proactive NLP
-
+### Overview of proactive NLP to help social good
 Applying NLP to help promote social good tasks, e.g., NLP for poverty, NLP for education, NLP for healthcare, etc.
 
 1. (Linguistics should make contributions in return to society; Language in Society, 1997) **Unequal partnership: Sociolinguistics and the African American speech community.** *John Russell Rickford.* [[pdf](https://scholar.google.com/scholar_url?url=http://johnrickford.com/portals/45/documents/papers/Rickford-1997b-Unequal-Partnership-Sociolinguistics-and-the-African-American-Speech-Community.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=11235621755930150174&ei=ZJ08YL7LEsbPmAGYsb6gDA&scisig=AAGBfm0s05ZM_0O0Rjm11_dA0eoJ31FB4g)]
 
-#### Self-Defensive NLP
+1. (High-level discussion of the function of technology; Daedalus 1980) **Do artifacts have politics?.** Landon Winner. [[pdf](https://web.media.mit.edu/~ascii/papers/winner_1980.pdf)]
+
+   [Summary] Provocative claim that technology be be accurate judged by (1) contributions of efficiency, (2) environmental side effects, and (3) political qualities (i.e., the way they embody specific power and authority). E.g., nuclear power leads to authoritarianism. CORE: tech matters by the social and economic system in which it is embedded.
+### Overview of methods to patch intrinsic problems with NLP research (side effects)
 
 Defending/fixing issues that is within (or closely co-occur with/caused by) NLP technologies, e.g., data privacy, mediating bias of NLP models, green NLP, etc.
 
@@ -84,9 +84,9 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 ## 3. Equality for all demographics
 
-### 3.1 (Self-Defensive) Gender/Demographical bias in models and data
+### 3.1 [Patch] Gender/Demographical bias in models and data
 
-##### Background
+#### Background
 
 1. (Science 2017) **Semantics derived automatically from language corpora necessarily contain human biases.** *Aylin Caliskan, Joanna J. Bryson, and Arvind Narayanan.* [[pdf](https://arxiv.org/pdf/1608.07187.pdf)]
 
@@ -94,7 +94,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. (Book 1999) **Sorting Things Out.** *Geoffrey C. Bowker, Susan Leigh Star.* [[intro](https://ar264sweeney.files.wordpress.com/2015/09/9780262269070_introduction.pdf)]
 
-##### Some recurring author names
+#### Some recurring author names
 
 - Kai-Wei Chang (UCLA)
 - Yoav Goldberg (Bar-Ilan University & Allen AI)
@@ -102,7 +102,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 - Brendan O'Connor (UMass Amherst)
 - Yulia Tsvetkov (CMU)
 
-##### Survey/Overview
+#### Survey/Overview
 
 1. (arXiv 2020) **Language (Technology) is Power: A Critical Survey of "Bias" in NLP** *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach.* [[pdf](https://arxiv.org/pdf/2005.14050.pdf)]
 
@@ -112,7 +112,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. (NIPS Keynote 2017) **The trouble with bias.** *Kate Crawford.*
 
-##### Gender vs. Embeddings
+#### Gender vs. Embeddings
 
 1. (Gender in word embeddings; NIPS 2016) **Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings.** *Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, Adam Kalai.*
 
@@ -152,7 +152,10 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. (ACL 2020) **Mitigating Gender Bias Amplification in Distribution by Posterior Regularization.** *Shengyu Jia, Tao Meng, Jieyu Zhao, Kai-Wei Chang.* [[pdf](https://arxiv.org/pdf/2005.06251.pdf)]
 
-##### Demographics vs. NLP Model Performance
+1. (Bias in dialog; AIES 2017) **Ethical Challenges in Data-Driven Dialogue Systems.** _Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_.
+[[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
+
+#### Demographics vs. NLP Model Performance
 
 1. (African American English; EMNLP 2016) **Demographic Dialectal Variation in Social Media: A Case Study of African-American English.** *Su Lin Blodgett, Lisa Green, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1608.08868.pdf)]
 1. (African American English; PNAS 2020) **Racial Disparity in Automated Speech Recognition.** *Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John Rickford, Dan Jurafsky, and Sharad Goel.*
@@ -161,16 +164,19 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 1. (Interspeech 2017) **Effects of talker dialect, gender and race on accuracy of Bing speech and YouTube automatic captions.** *Rachael Tatman, Conner Kasten.* [[pdf](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1746.PDF)]
 1. (Annual Review of Political Science 2016) **Race as a Bundle of Sticks: Designs that Estimate Effects of Seemingly Immutable Characteristics.** *Maya Sen, Omar Wasow.* [[pdf](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)]
 1. (KDD 2017 Workshop) **Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English.** *Su Lin Blodgett, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1707.00061.pdf)]
+#### Algorithmic fairness
+1. (FAccT 2021) **Re-imagining Algorithmic Fairness in India and Beyond.** _Nithya Sambasivan, Erin Arnesen, Ben Hutchinson, Tulsee Doshi, Vinodkumar Prabhakaran_. [[pdf](https://arxiv.org/pdf/2101.09995.pdf)] [[criticism](https://gist.github.com/yoavg/79dc84593dc696e99ebd8d8f878d92f3)]
 
-## 4. (Proactive) NLP for studying misinformation
+  [Summary] Current research on AI ethics is US-centric, not easily transferrable to other countries.
+## 4. [Proactive] NLP for studying misinformation
 
-##### 4.1 Propaganda
+#### 4.1 Propaganda
 
 1. (EMNLP 2018) **Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies.** *Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov.* [[pdf](https://www.aclweb.org/anthology/D18-1393.pdf)](EMNLP 2019) **Fine-Grained Analysis of Propaganda in News Articles.** *Giovanni Da San Martino, Seunghak Yu, Alberto Barrón-Cedeño, Rostislav Petrov, Preslav Nakov.* [[pdf](https://www.aclweb.org/anthology/D19-1565.pdf)]
 1. (arXiv 2020) **Pro-Russian Biases in Anti-Chinese Tweets about the Novel Coronavirus.** *Autumn Toney, Akshat Pandey, Wei Guo, David Broniatowski, Aylin Caliskan.* [pdf]
 1. (Internet Policy Review 2019) **Technology, autonomy, and manipulation.** *Daniel Susser, Beate Roessler, Helen Nissenbaum.* [[pdf](https://nissenbaum.tech.cornell.edu/papers/Technology,%20Autonomy,%20and%20Manipulation.pdf)]
 
-##### 4.2 Misinformation
+#### 4.2 Misinformation
 
 1. (arXiv 2020) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
 1. (iConference 2014) **Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing.**  *Kate Starbird, Jim Maddock, Mania Orand, Peg Achterman, Robert M. Mason.* [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/47257/308_ready.pdf?sequence=2&isAllowed=y)]
@@ -179,23 +185,23 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 1. (AJPH 2018) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
 1. (Wired article 2020) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
 
-##### 4.3 Fake news
+#### 4.3 Fake news
 
 1. (Journal of economic perspectives 2017) **Social Media and Fake News in the 2016 Election.** *Hunt Allcott, Matthew Gentzkow.* [[pdf](https://web.stanford.edu/~gentzkow/research/fakenews.pdf)]
 1. (Science 2018) **The spread of true and false news online.** *Vosoughi, Soroush, Deb Roy, and Sinan Aral*. [[pdf](https://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)]
 
-##### 4.4 Bias
+#### 4.4 Bias
 
 1. (arXiv 2020) **Automatically Characterizing Targeted Information Operations Through Biases Present in Discourse on Twitter.** *Autumn Toney, Akshat Pandey, Wei Guo, David Broniatowski, Aylin Caliskan.* [[pdf](https://arxiv.org/pdf/2004.08726)]
 
-##### 4.5 Fact-checking
+#### 4.5 Fact-checking
 
 1. (EMNLP 2019) **MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims.** *Augenstein, Isabelle, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, and Jakob Grue Simonsen.* [[pdf](https://www.aclweb.org/anthology/D19-1475.pdf)]
 1. (CL 2020) **The Limitations of Stylometry for Detecting Machine-Generated Fake News.** *Tal Schuster, Roei Schuster, Darsh J Shah, Regina Barzilay.* [[pdf](https://arxiv.org/pdf/1908.09805.pdf)]
 1. (NeurIPS 2019) **Defending Against Neural Fake News.** *Rowan Zellers, Ari Holtzman, Hannah Rashkin, Yonatan Bisk, Ali Farhadi, Franziska Roesner, Yejin Choi.* [[pdf](https://proceedings.neurips.cc/paper/2019/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)]
 1. (NAACL 2018) **FEVER: a large-scale dataset for Fact Extraction and VERification.** *James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal.* [[pdf](https://www.aclweb.org/anthology/N18-1074.pdf)]
 
-## 5. (Self-Defensive) Mitigating Issues with Dataset Collection
+## 5. [Patch] Mitigating Issues with Dataset Collection
 
 **Motivation:** Public social media data can invade user privacy.
 
@@ -239,7 +245,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
    [Summary] Recruited subjects talk more and faster, while real users ask for more help and more frequently interrupt the system.
 
-## 6. (Proactive + Self-Defensive) NLP for all languages
+## 6. (Proactive + Patch) NLP for all languages
 
 **[Main focus]** Spreading the benefit of NLP to low-resource languages; equal gender ratio.
 
@@ -249,7 +255,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
 
-## 7. (Proactive) NLP for mental health
+## 7. [Proactive] NLP for mental health
 
 1. **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)][[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
 
@@ -259,7 +265,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. Research Fellowship Program (3-6 months) [[FAQ](https://docs.google.com/document/d/1_uQrOapzwy1JA8j38PX9unXDC_dzMyO7HT9jnhjxLEY/edit)]
 
-## 8. (Proactive) NLP for education
+## 8. [Proactive] NLP for education
 
 #### Improving textbooks
 1. (ACM Symposium 2010) **Enriching Textbooks Through Data Mining.** _Rakesh Agrawal, Sreenivas Gollapudi, Krishnaram Kenthapadi, Nitish Srivastava, Raja Velu_. [[pdf](http://theory.stanford.edu/~kngk/papers/enrichingTextbooksThroughDataMining-DEV2010.pdf)]
@@ -293,21 +299,57 @@ _Bahareh Sarrafzadeh, Sujay Kumar Jauhar, Michael Gamon, Edward Lank, Ryen White
 1. NLP for compiling Google searched articles to youth-friendly teaching materials
 1. Student personalization and engagement: assessment of learners’ language and cognitive skill levels and systems that detect and adapt to learners’ cognitive or emotional states
 
-## 9. More reading (for Systematic learning)
+## 9. [Alert for Harm] NLP for Privacy Invasion/Surveilance
+**Background**
+1. (Inmate medical surveilance; Intercept 2020) **Prisons launch "absurd" attempt to detect coronavirus in inmate phone calls.** _Akela Lacy, Alice Speri, Jordan Smith, Sam Biddle._
 
-### 9.1 Courses
+  [Summary] Automatically downloads, analyzes, and transcribes inmate calls, to identify sick inmates, help allocate personnel in understaffed prisons, and even prevent “COVID-19 related murder.
+
+1. (Teenagers want privacy; Symposium discussion 2011) **Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies.** _Danah  Boyd, Alice Marwick_. [[pdf](https://www.danah.org/papers/2011/SocialPrivacyPLSC-Draft.pdf)]
+### User profiling
+1. **Writer Profiling Without the Writer’s Text.** _David Jurgens, Yulia Tsvetkov, Dan Jurafsky_. [[pdf](https://jurgens.people.si.umich.edu/docs/jurgens-tsvetkov-jurafsky.socinfo2017.pdf)]
+
+  [Summary] Linguistic cues are predictive of user gender, age, religion, diet, and personality traits.
+
+1. **Ethical Challenges in Data-Driven Dialogue Systems.**
+_Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_. [[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
+
+
+### Leaking training data
+
+1. (Dialog; AIES 2017) **Ethical Challenges in Data-Driven Dialogue Systems.** _Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_.
+[[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
+
+1. **Privacy-preserving Neural Representations of Text.**
+_Maximin Coavoux, Shashi Narayan, Shay B. Cohen_. [[pdf](https://arxiv.org/pdf/1808.09408.pdf)]
+  
+  [Summary] Build representations with a tradeoff between privacy and utility of neural representations.
+
+1. (USENIX Symposium 2019) **The Secret Sharer: Evaluating and Testing
+Unintended Memorization in Neural Networks.** _Nicholas Carlini, Chang Liu, Úlfar Erlingsson, Jernej Kos, Dawn Song_. [[pdf](https://arxiv.org/pdf/1802.08232.pdf)] [[4-gram experiment by Prof Yoav Goldberg](https://gist.github.com/yoavg/40d01b5df1014d9237157902926d20c6)]
+
+
+### Surveilance from companies
+1. (Book 2019) **The age of surveillance capitalism.** _Shoshana Zuboff._ [[Amazon](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)] [[pdf](http://125.22.40.134:8080/jspui/bitstream/123456789/4220/1/Shoshana%20Zuboff%20-%20The%20Age%20of%20Surveillance%20Capitalism.pdf)]
+
+## 10. [Alert for Harm] Large Language Models
+1. (FAccT 2021) **On the Dangers of Stochastic Parrots: Can Languae Models be Too Big.** _Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell_. [[pdf](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)] [[criticism](https://gist.github.com/yoavg/9fc9be2f98b47c189a513573d902fb27)]
+
+## 11. More reading (for Systematic learning)
+
+### 11.1 Courses
 
 1. **Stanford CS 384: Ethical and Social Issues in NLP.** _Dan Jurafsky_. [[lectures](https://web.stanford.edu/class/cs384/)]
 1. **Computational Ethics for NLP.** [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/) and [Alan Black](http://www.cs.cmu.edu/~awb/). [[lectures](http://demo.clab.cs.cmu.edu/ethical_nlp2020/)]
 1. **Ethics in NLP.** [Emily Bender](http://faculty.washington.edu/ebender/). [[lectures](https://faculty.washington.edu/ebender/2017_575/)]
 
-## 10. Engagement from Non-Academic Areas
+## 12. Engagement from Non-Academic Areas
 
 ### Non-Profit Movements
 
 - (EA Movement) 80,000 Hours -> Career advice to design your career time (80,000 hours) in the rational way to optimize social good.
 
-## 11. Resources of (general) AI for social good
+## 13. Resources of (general) AI for social good
 
 1. **Introduction to Key Concepts in AI and Machine Learning for Good.** _James Weis, Geeticka Chauhan_. [[slides](https://drive.google.com/file/d/1Bgls-veTF0vMlEm-0xerbMsQm7MGccxw/view)]
 
