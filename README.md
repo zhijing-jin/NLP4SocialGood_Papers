@@ -30,15 +30,15 @@ This is a reading list of papers on NLP for Social Good.
   - [5.1 Promoting data ethic norms for the community](#51-promoting-data-ethic-norms-for-the-community)
   - [5.2 User surveys about their data being used](#52-user-surveys-about-their-data-being-used)
   - [5.3 Improving data quality for ML models](#53-improving-data-quality-for-ML)
-- [6. (Proactive + Self-Defensive) NLP for all languages](#6. (Proactive + Self-Defensive) NLP for all languages)
+- [6. (Proactive + Self-Defensive) NLP for all languages](#6-proactive--self-defensive-nlp-for-all-languages)
   - [Motivation](#Motivation)
-- [7. (Proactive) NLP for mental health](#7.-Proactive-NLP-for mental-health)
+- [7. (Proactive) NLP for mental health](#7-proactive-nlp-for-mental-health)
   - [Events and Resources](#Events-and-Resources)
-- [8. More reading (for Systematic learning)](#8.-More-reading-(for-Systematic-learning))
+- [8. More reading (for Systematic learning)](#8.-More-reading-for-Systematic-learning)
   - [Courses](#Courses)
-- [9. Engagement from Non-Academic Areas](#9.-Engagement-from Non-Academic-Areas)
+- [9. Engagement from Non-Academic Areas](#9.-Engagement-from-Non-Academic-Areas)
   - [Non-Profit Movements](#Non-Profit-Movements)
-- [10. Resources of (general) AI for social good](#10.-Resources-of-(general)-AI-for-social-good)
+- [10. Resources of (general) AI for social good](#10.-Resources-of-general-AI-for-social-good)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -261,6 +261,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 ## 8. (Proactive) NLP for education
 
 1. (AIED 2015) **Educational Question Answering Motivated by Question-Specific Concept Maps.** _Thushari Atapattu, Katrina Falkner, Nickolas Falkner_. [[pdf](https://scholar.google.com/scholar_url?url=https://www.researchgate.net/profile/Thushari_Atapattu/publication/273460094_Educational_Question_Answering_Motivated_by_Question-Specific_Concept_Maps/links/55a5007008aef604aa0415a7.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=16059197396106165671&ei=g4c-YOaXJo-Ny9YPk6ib2Ac&scisig=AAGBfm2C12qBDEbcS4AiXLBYJ_OTuoVnmQ)]
+1. 
 
 ## 9. More reading (for Systematic learning)
 
