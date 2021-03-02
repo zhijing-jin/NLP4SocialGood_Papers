@@ -14,29 +14,29 @@ This is a reading list of papers on NLP for Social Good.
   - [Proactive NLP](#proactive-nlp)
   - [Patching NLP's intrinsic problems](#self-defensive-NLP)
 - [3. Equality for all demographics](#4-more-resources)
-  - [3.1 [Patch\] Gender/Demographical bias in models and data](#41-causality-papers-from-schoelkopfs-lab-mpi)
+  - [3.1 `Patch` Gender/Demographical bias in models and data](#41-causality-papers-from-schoelkopfs-lab-mpi)
     - [Background](#background)
     - [Some recurring author names](#some-recurring-author-names)
     - [Survey/Overview](#surveyoverview)
     - [Gender vs. Embeddings](#gender-vs-embeddings)
     - [Demographics vs. NLP Model Performance](#demographics-vs-nlp-model-performance)
-- [4. [Proactive\] NLP for studying misinformation](#4-proactive-nlp-for-studying-misinformation)
+- [4. `Proactive` NLP for studying misinformation](#4-proactive-nlp-for-studying-misinformation)
   - [4.1 Propaganda](#41-propaganda)
   - [4.2 Misinformation](#42-misinformation)
   - [4.3 Fake news](#43-fake-news)
   - [4.4 Bias](#44-bias)
   - [4.5 Fact-checking](#45-fact-checking)
-- [5. [Patch\] Mitigating Issues with Dataset Collection](#5-mitigating-issues-with-dataset-collection)
+- [5. `Patch` Mitigating Issues with Dataset Collection](#5-mitigating-issues-with-dataset-collection)
   - [5.1 Promoting data ethic norms for the community](#51-promoting-data-ethic-norms-for-the-community)
   - [5.2 User surveys about their data being used](#52-user-surveys-about-their-data-being-used)
   - [5.3 Improving data quality for ML models](#53-improving-data-quality-for-ML)
-- [6. [Proactive + Patch\] NLP for all languages](#6-proactive--patch-nlp-for-all-languages)
+- [6. `Proactive + Patch` NLP for all languages](#6-proactive--patch-nlp-for-all-languages)
   - [Motivation](#Motivation)
-- [7. [Proactive\] NLP for mental health](#7-proactive-nlp-for-mental-health)
+- [7. `Proactive` NLP for mental health](#7-proactive-nlp-for-mental-health)
   - [Events and Resources](#Events-and-Resources)
-- [8. [Proactive\] NLP for education](#8-proactive-nlp-for-education)
-- [9. [Alert for Harm\] NLP for Privacy Invasion/Surveilance](9-alert-for-harm-nlp-for-privacy-invasionsurveilance)
-- [10. [Alert for Harm\] Large Language Models](10-alert-for-harm-large-language-models)
+- [8. `Proactive` NLP for education](#8-proactive-nlp-for-education)
+- [9. `Alert for Harm` NLP for Privacy Invasion/Surveilance](9-alert-for-harm-nlp-for-privacy-invasionsurveilance)
+- [10. `Alert for Harm` Large Language Models](10-alert-for-harm-large-language-models)
 - [11. More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
   - [Courses](#Courses)
 - [12. Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
@@ -59,6 +59,7 @@ This is a reading list of papers on NLP for Social Good.
 1. (ACL 2020) **Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?.** *Kobi Leins, Jey Han Lau, Timothy Baldwin.* 
 
 ### Overview of proactive NLP to help social good
+
 Applying NLP to help promote social good tasks, e.g., NLP for poverty, NLP for education, NLP for healthcare, etc.
 
 1. (Linguistics should make contributions in return to society; Language in Society, 1997) **Unequal partnership: Sociolinguistics and the African American speech community.** *John Russell Rickford.* [[pdf](https://scholar.google.com/scholar_url?url=http://johnrickford.com/portals/45/documents/papers/Rickford-1997b-Unequal-Partnership-Sociolinguistics-and-the-African-American-Speech-Community.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=11235621755930150174&ei=ZJ08YL7LEsbPmAGYsb6gDA&scisig=AAGBfm0s05ZM_0O0Rjm11_dA0eoJ31FB4g)]
@@ -66,6 +67,7 @@ Applying NLP to help promote social good tasks, e.g., NLP for poverty, NLP for e
 1. (High-level discussion of the function of technology; Daedalus 1980) **Do artifacts have politics?.** Landon Winner. [[pdf](https://web.media.mit.edu/~ascii/papers/winner_1980.pdf)]
 
    [Summary] Provocative claim that technology be be accurate judged by (1) contributions of efficiency, (2) environmental side effects, and (3) political qualities (i.e., the way they embody specific power and authority). E.g., nuclear power leads to authoritarianism. CORE: tech matters by the social and economic system in which it is embedded.
+
 ### Overview of methods to patch intrinsic problems with NLP research (side effects)
 
 Defending/fixing issues that is within (or closely co-occur with/caused by) NLP technologies, e.g., data privacy, mediating bias of NLP models, green NLP, etc.
@@ -153,7 +155,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 1. (ACL 2020) **Mitigating Gender Bias Amplification in Distribution by Posterior Regularization.** *Shengyu Jia, Tao Meng, Jieyu Zhao, Kai-Wei Chang.* [[pdf](https://arxiv.org/pdf/2005.06251.pdf)]
 
 1. (Bias in dialog; AIES 2017) **Ethical Challenges in Data-Driven Dialogue Systems.** _Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_.
-[[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
+   [[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
 
 #### Demographics vs. NLP Model Performance
 
@@ -164,10 +166,13 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 1. (Interspeech 2017) **Effects of talker dialect, gender and race on accuracy of Bing speech and YouTube automatic captions.** *Rachael Tatman, Conner Kasten.* [[pdf](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1746.PDF)]
 1. (Annual Review of Political Science 2016) **Race as a Bundle of Sticks: Designs that Estimate Effects of Seemingly Immutable Characteristics.** *Maya Sen, Omar Wasow.* [[pdf](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)]
 1. (KDD 2017 Workshop) **Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English.** *Su Lin Blodgett, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1707.00061.pdf)]
+
 #### Algorithmic fairness
+
 1. (FAccT 2021) **Re-imagining Algorithmic Fairness in India and Beyond.** _Nithya Sambasivan, Erin Arnesen, Ben Hutchinson, Tulsee Doshi, Vinodkumar Prabhakaran_. [[pdf](https://arxiv.org/pdf/2101.09995.pdf)] [[criticism](https://gist.github.com/yoavg/79dc84593dc696e99ebd8d8f878d92f3)]
 
-  [Summary] Current research on AI ethics is US-centric, not easily transferrable to other countries.
+   [Summary] Current research on AI ethics is US-centric, not easily transferrable to other countries.
+
 ## 4. [Proactive] NLP for studying misinformation
 
 #### 4.1 Propaganda
@@ -268,71 +273,93 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 ## 8. [Proactive] NLP for education
 
 #### Improving textbooks
+
 1. (ACM Symposium 2010) **Enriching Textbooks Through Data Mining.** _Rakesh Agrawal, Sreenivas Gollapudi, Krishnaram Kenthapadi, Nitish Srivastava, Raja Velu_. [[pdf](http://theory.stanford.edu/~kngk/papers/enrichingTextbooksThroughDataMining-DEV2010.pdf)]
+
 #### Automatic grading
+
 1. (EMNLP 2016) **A Neural Approach to Automated Essay Scoring.** _Kaveh Taghipour, Hwee Tou Ng_. [[pdf](https://www.aclweb.org/anthology/D16-1193.pdf)]
 1. (ICCL 2018) **Automated Scoring: Beyond Natural Language Processing.** _Nitin Madnani, Aoife Cahill_. [[pdf](https://www.aclweb.org/anthology/C18-1094.pdf)]
+
 #### Plagiarism detection
+
 1. (IPC 2010) **Using Natural Language Processing for Automatic Detection of Plagiarism.** _Miranda Chong, Lucia Specia, Rusian Mitkov_. [[pdf](https://d1wqtxts1xzle7.cloudfront.net/40077408/Using_Natural_Language_Processing_for_Au20151116-27205-18j9w7z.pdf?1447706034=&response-content-disposition=inline%3B+filename%3DUsing_Natural_Language_Processing_for_Au.pdf&Expires=1614716474&Signature=HWqblSJY74yWBo0jzE4c82-dqyAk2ckBxGi1H09FReus2fdP4Y7v13Eupfdds5nA5zBGrgMs6WHqkTgESGaXetdUkzRHHXF6tmFn2618XGLkfoX5Xkl4kyHpmjl5Haq2lGC0rxXtQoSlVnm8K0kJbGVYn3g2ubXscwRTXS7LvzUWYrAokLXEfgqYAcoPoxbVTbdxlKEdbHvqjnUNiTOjnmTQMIAynoyY9QWC-E6N7uskMz69IS4MNwD11pLNi4KFOQnNip5SFZaGwhncmLzJj6KUYaJCH1odj~imz~t99KqwYZ0HQuPj3ZeeQQCSw0n~~GllGpPixB6c6-lC4x3S9w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] [[poster](http://clg.wlv.ac.uk/news/ChongM_regionalposter2010.pdf)]
+
 #### Educational Question Answering
+
 1. (AIED 2015) **Educational Question Answering Motivated by Question-Specific Concept Maps.** _Thushari Atapattu, Katrina Falkner, Nickolas Falkner_. [[pdf](https://scholar.google.com/scholar_url?url=https://www.researchgate.net/profile/Thushari_Atapattu/publication/273460094_Educational_Question_Answering_Motivated_by_Question-Specific_Concept_Maps/links/55a5007008aef604aa0415a7.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=16059197396106165671&ei=g4c-YOaXJo-Ny9YPk6ib2Ac&scisig=AAGBfm2C12qBDEbcS4AiXLBYJ_OTuoVnmQ)]
 1. (IEEE 2016) **Question answering system on education acts using NLP techniques.** _Sweta P Lende and MM Raghuwanshi_. [[paper](https://ieeexplore.ieee.org/document/7583963)]
+
 #### Reading/writing assistants
+
 (e.g. writing assistants for Microsoft Word or Google Docs)
+
 1. **Modeling the Relationship between User Comments and Edits in Document Revision.**
-_Xuchao Zhang, Dheeraj Rajagopal, Michael Gamon, Sujay Kumar Jauhar, ChangTien Lu_.
-[[pdf](https://www.aclweb.org/anthology/D19-1505.pdf)]
+   _Xuchao Zhang, Dheeraj Rajagopal, Michael Gamon, Sujay Kumar Jauhar, ChangTien Lu_.
+   [[pdf](https://www.aclweb.org/anthology/D19-1505.pdf)]
 1. (CSCW 2020) **Characterizing Stage-Aware Writing Assistance in Collaborative Document Authoring.**
-_Bahareh Sarrafzadeh, Sujay Kumar Jauhar, Michael Gamon, Edward Lank, Ryen White_.
-[[pdf](https://arxiv.org/pdf/2008.08165.pdf)]
+   _Bahareh Sarrafzadeh, Sujay Kumar Jauhar, Michael Gamon, Edward Lank, Ryen White_.
+   [[pdf](https://arxiv.org/pdf/2008.08165.pdf)]
+
 #### First, second (and subsequent) language learning
+
 1. (The encyclopedia of applied linguistics, 2012) **Natural Language Processing and Language Learning.** _Detmar Meurers_. [[pdf](http://tjure.sfs.uni-tuebingen.de/~dm/papers/meurers-11.pdf)]
+
 #### Educational data mining from student data logs
+
 1. (ICEE 2010) **Data Mining and Student e-Learning Profiles.** _Mingming  Zhou._ [[pdf](https://scholar.google.com/scholar_url?url=https://ieeexplore.ieee.org/iel5/5589107/5590383/05592904.pdf%3Fcasa_token%3DQanxy6EpahAAAAAA:buomiAvCVRQ8z2iBtWeS-aKYOHrnJyYYZinSpw67943TK1SAQU_ICN3XXYqzhGKEOsUTcLhG&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=17473948150158469748&ei=xZE-YMTKKIi8ywTr17_gDg&scisig=AAGBfm21cr6Y-CdflmrZLTQdfnG_FD9ysg)]
 
 #### Multimodal student-computer interaction
+
 1. (ICBL 2020) **A Multimodal Human-Computer Interaction System and Its Application in Smart Learning Environments.** _Jiyou Jia, Yunfan He, Huixiao Le_. [[paper](https://link.springer.com/chapter/10.1007%2F978-3-030-51968-1_1)]
 
 #### Potential new directions to pursue
+
 1. NLP for career path counseling
 1. Tools for learners with disabilities
 1. NLP for compiling Google searched articles to youth-friendly teaching materials
 1. Student personalization and engagement: assessment of learners’ language and cognitive skill levels and systems that detect and adapt to learners’ cognitive or emotional states
 
 ## 9. [Alert for Harm] NLP for Privacy Invasion/Surveilance
+
 **Background**
+
 1. (Inmate medical surveilance; Intercept 2020) **Prisons launch "absurd" attempt to detect coronavirus in inmate phone calls.** _Akela Lacy, Alice Speri, Jordan Smith, Sam Biddle._
 
-  [Summary] Automatically downloads, analyzes, and transcribes inmate calls, to identify sick inmates, help allocate personnel in understaffed prisons, and even prevent “COVID-19 related murder.
+   [Summary] Automatically downloads, analyzes, and transcribes inmate calls, to identify sick inmates, help allocate personnel in understaffed prisons, and even prevent “COVID-19 related murder.
 
 1. (Teenagers want privacy; Symposium discussion 2011) **Social Privacy in Networked Publics: Teens’ Attitudes, Practices, and Strategies.** _Danah  Boyd, Alice Marwick_. [[pdf](https://www.danah.org/papers/2011/SocialPrivacyPLSC-Draft.pdf)]
+
 ### User profiling
+
 1. **Writer Profiling Without the Writer’s Text.** _David Jurgens, Yulia Tsvetkov, Dan Jurafsky_. [[pdf](https://jurgens.people.si.umich.edu/docs/jurgens-tsvetkov-jurafsky.socinfo2017.pdf)]
 
-  [Summary] Linguistic cues are predictive of user gender, age, religion, diet, and personality traits.
+   [Summary] Linguistic cues are predictive of user gender, age, religion, diet, and personality traits.
 
 1. **Ethical Challenges in Data-Driven Dialogue Systems.**
-_Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_. [[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
+   _Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_. [[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
 
 
 ### Leaking training data
 
 1. (Dialog; AIES 2017) **Ethical Challenges in Data-Driven Dialogue Systems.** _Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_.
-[[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
+   [[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
 
 1. **Privacy-preserving Neural Representations of Text.**
-_Maximin Coavoux, Shashi Narayan, Shay B. Cohen_. [[pdf](https://arxiv.org/pdf/1808.09408.pdf)]
-  
-  [Summary] Build representations with a tradeoff between privacy and utility of neural representations.
+   _Maximin Coavoux, Shashi Narayan, Shay B. Cohen_. [[pdf](https://arxiv.org/pdf/1808.09408.pdf)]
+
+   [Summary] Build representations with a tradeoff between privacy and utility of neural representations.
 
 1. (USENIX Symposium 2019) **The Secret Sharer: Evaluating and Testing
-Unintended Memorization in Neural Networks.** _Nicholas Carlini, Chang Liu, Úlfar Erlingsson, Jernej Kos, Dawn Song_. [[pdf](https://arxiv.org/pdf/1802.08232.pdf)] [[4-gram experiment by Prof Yoav Goldberg](https://gist.github.com/yoavg/40d01b5df1014d9237157902926d20c6)]
+   Unintended Memorization in Neural Networks.** _Nicholas Carlini, Chang Liu, Úlfar Erlingsson, Jernej Kos, Dawn Song_. [[pdf](https://arxiv.org/pdf/1802.08232.pdf)] [[4-gram experiment by Prof Yoav Goldberg](https://gist.github.com/yoavg/40d01b5df1014d9237157902926d20c6)]
 
 
 ### Surveilance from companies
+
 1. (Book 2019) **The age of surveillance capitalism.** _Shoshana Zuboff._ [[Amazon](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)] [[pdf](http://125.22.40.134:8080/jspui/bitstream/123456789/4220/1/Shoshana%20Zuboff%20-%20The%20Age%20of%20Surveillance%20Capitalism.pdf)]
 
 ## 10. [Alert for Harm] Large Language Models
+
 1. (FAccT 2021) **On the Dangers of Stochastic Parrots: Can Languae Models be Too Big.** _Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell_. [[pdf](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)] [[criticism](https://gist.github.com/yoavg/9fc9be2f98b47c189a513573d902fb27)]
 
 ## 11. More reading (for Systematic learning)
