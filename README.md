@@ -4,40 +4,42 @@ This is a reading list of papers on NLP for Social Good.
 
 **Contributor:** [Zhijing Jin](http://zhijing-jin.com). If you want to contribute to this reading list, feel free to make pull requests, or issues telling me if you'd like to be a contributor of this GitHub Repo.
 
-### Contents (Keep updating)
+### Contents (Actively Updating)
 
-- 1.Meta-Info
-  - 1.1 Events/News
-- 2.Overview Papers
-  - Proactive NLP
-  - Self-Defensive NLP
-- 3.Equality for all demographics
-  - 3.1 (Self-Defensive) Gender/Demographical bias in models and data
-    - Background
-    - Key recurring author names
-    - Survey/Overview
-    - Gender vs. Embeddings
-    - Demographics vs. NLP Model Performance
-- 4.(Proactive) NLP for studying misinformation
-  - 4.1 Propaganda
-  - 4.2 Misinformation
-  - 4.3 Fake news
-  - 4.4 Bias
-  - 4.5 Fact-checking
-- 5.(Self-Defensive) Mitigating Issues with Dataset Collection
-  - 5.1 Promoting data ethic norms for the community
-  - 5.2 User surveys about their data being used
-  - 5.3 Improving data quality for ML models
-- 6.(Proactive + Self-Defensive) NLP for all languages
-  - Motivation
-- 7.(Proactive + Self-Defensive) NLP for mental health
-  - Events and Resources
-- 8.More reading (for Systematic learning)
-  - Courses
-- 9.Engagement from Non-Academic Areas
-  - Non-Profit Movements
-- 10.Resources of (general) AI for social good
-- Acknowledgements
+(Hyperlinks only works in Chrome/Firefox/etc, not Safari.)
+
+- [1. Meta-Info](#1-meta-info)
+  - [1.1 Events/News](#11-eventsnews)
+- [2. Overview Papers](#2-overview-papers)
+  - [Proactive NLP](#proactive-nlp)
+  - [Self-Defensive NLP](#self-defensive-NLP)
+- [3. Equality for all demographics](#4-more-resources)
+  - [3.1 (Self-Defensive) Gender/Demographical bias in models and data](#41-causality-papers-from-schoelkopfs-lab-mpi)
+    - [Background](#background)
+    - [Some recurring author names](#some-recurring-author-names)
+    - [Survey/Overview](#surveyoverview)
+    - [Gender vs. Embeddings](#gender-vs-embeddings)
+    - [Demographics vs. NLP Model Performance](#demographics-vs-nlp-model-performance)
+- [4. (Proactive) NLP for studying misinformation](#4-proactive-nlp-for-studying-misinformation)
+  - [4.1 Propaganda](#41-propaganda)
+  - [4.2 Misinformation](#42-misinformation)
+  - [4.3 Fake news](#43-fake-news)
+  - [4.4 Bias](#44-bias)
+  - [4.5 Fact-checking](#45-fact-checking)
+- [5. (Self-Defensive) Mitigating Issues with Dataset Collection](#5-mitigating-issues-with-dataset-collection)
+  - [5.1 Promoting data ethic norms for the community](#51-promoting-data-ethic-norms-for-the-community)
+  - [5.2 User surveys about their data being used](#52-user-surveys-about-their-data-being-used)
+  - [5.3 Improving data quality for ML models](#53-improving-data-quality-for-ML)
+- [6. (Proactive + Self-Defensive) NLP for all languages](#6. (Proactive + Self-Defensive) NLP for all languages)
+  - [Motivation](#Motivation)
+- [7. (Proactive) NLP for mental health](#7.-Proactive-NLP-for mental-health)
+  - [Events and Resources](#Events-and-Resources)
+- [8. More reading (for Systematic learning)](#8.-More-reading-(for-Systematic-learning))
+  - [Courses](#Courses)
+- [9. Engagement from Non-Academic Areas](#9.-Engagement-from Non-Academic-Areas)
+  - [Non-Profit Movements](#Non-Profit-Movements)
+- [10. Resources of (general) AI for social good](#10.-Resources-of-(general)-AI-for-social-good)
+- [Acknowledgements](#acknowledgements)
 
 
 
@@ -91,7 +93,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. (Book 1999) **Sorting Things Out.** *Geoffrey C. Bowker, Susan Leigh Star.* [[intro](https://ar264sweeney.files.wordpress.com/2015/09/9780262269070_introduction.pdf)]
 
-##### Key recurring author names
+##### Some recurring author names
 
 - Kai-Wei Chang (UCLA)
 - Yoav Goldberg (Bar-Ilan University & Allen AI)
@@ -246,7 +248,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
 
-## 7. (Proactive + Self-Defensive) NLP for mental health
+## 7. (Proactive) NLP for mental health
 
 1. **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)][[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
 
@@ -256,21 +258,25 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. Research Fellowship Program (3-6 months) [[FAQ](https://docs.google.com/document/d/1_uQrOapzwy1JA8j38PX9unXDC_dzMyO7HT9jnhjxLEY/edit)]
 
-## 8. More reading (for Systematic learning)
+## 8. (Proactive) NLP for education
 
-### 8.1 Courses
+1. (AIED 2015) **Educational Question Answering Motivated by Question-Specific Concept Maps.** _Thushari Atapattu, Katrina Falkner, Nickolas Falkner_. [[pdf](https://scholar.google.com/scholar_url?url=https://www.researchgate.net/profile/Thushari_Atapattu/publication/273460094_Educational_Question_Answering_Motivated_by_Question-Specific_Concept_Maps/links/55a5007008aef604aa0415a7.pdf&hl=en&sa=T&oi=gsb-gga&ct=res&cd=0&d=16059197396106165671&ei=g4c-YOaXJo-Ny9YPk6ib2Ac&scisig=AAGBfm2C12qBDEbcS4AiXLBYJ_OTuoVnmQ)]
+
+## 9. More reading (for Systematic learning)
+
+### 9.1 Courses
 
 1. **Stanford CS 384: Ethical and Social Issues in NLP.** _Dan Jurafsky_. [[lectures](https://web.stanford.edu/class/cs384/)]
 1. **Computational Ethics for NLP.** [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/) and [Alan Black](http://www.cs.cmu.edu/~awb/). [[lectures](http://demo.clab.cs.cmu.edu/ethical_nlp2020/)]
 1. **Ethics in NLP.** [Emily Bender](http://faculty.washington.edu/ebender/). [[lectures](https://faculty.washington.edu/ebender/2017_575/)]
 
-## 9. Engagement from Non-Academic Areas
+## 10. Engagement from Non-Academic Areas
 
 ### Non-Profit Movements
 
 - (EA Movement) 80,000 Hours -> Career advice to design your career time (80,000 hours) in the rational way to optimize social good.
 
-## 10. Resources of (general) AI for social good
+## 11. Resources of (general) AI for social good
 
 1. **Introduction to Key Concepts in AI and Machine Learning for Good.** _James Weis, Geeticka Chauhan_. [[slides](https://drive.google.com/file/d/1Bgls-veTF0vMlEm-0xerbMsQm7MGccxw/view)]
 
