@@ -2,7 +2,7 @@
 
 This is a reading list of papers on NLP for Social Good.
 
-**Contributor:** [Zhijing Jin](zhijing-jin.com). If you want to contribute to this reading list, feel free to make pull requests, or issues telling me if you'd like to be a contributor of this GitHub Repo.
+**Contributor:** [Zhijing Jin](http://zhijing-jin.com). If you want to contribute to this reading list, feel free to make pull requests, or issues telling me if you'd like to be a contributor of this GitHub Repo.
 
 ### Contents (Keep updating)
 
