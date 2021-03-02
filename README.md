@@ -4,46 +4,44 @@ This is a reading list of papers on NLP for Social Good.
 
 **Contributor:** [Zhijing Jin](zhijing-jin.com). If you want to contribute to this reading list, feel free to make pull requests, or issues telling me if you'd like to be a contributor of this GitHub Repo.
 
-### Contents
-(Keep updating)
-- 1. Meta-Info
-	- 1.1 Events/News
-- 2. Overview Papers
-	- Proactive NLP
-	- Self-Defensive NLP
-- 3. Equality for all demographics
-	- 3.1 (Self-Defensive) Gender/Demographical bias in models and data
-		- Background
-		- Key recurring author names
-		- Survey/Overview
-		- Gender vs. Embeddings
-		- Demographics vs. NLP Model Performance
-- 4. (Proactive) NLP for studying misinformation
-	- 4.1 Propaganda
-	- 4.2 Misinformation
-	- 4.3 Fake news
-	- 4.4 Bias
-	- 4.5 Fact-checking
-- 5. (Self-Defensive) Mitigating Issues with Dataset Collection
-	- 5.1 Promoting data ethic norms for the community
-	- 5.2 User surveys about their data being used
-	- 5.3 Improving data quality for ML models
-- 6. (Proactive + Self-Defensive) NLP for all languages
-	- Motivation
-- 7. NLP for mental health
-	- Events and Resources
-- 8. More reading (for Systematic learning)
-	- 8.1 Courses
-- 9. Engagement from Non-Academic Areas
-	- Non-Profit Movements
-- 10. Resources of (general) AI for social good
+### Contents (Keep updating)
+
+- 1.Meta-Info
+  - 1.1 Events/News
+- 2.Overview Papers
+  - Proactive NLP
+  - Self-Defensive NLP
+- 3.Equality for all demographics
+  - 3.1 (Self-Defensive) Gender/Demographical bias in models and data
+    - Background
+    - Key recurring author names
+    - Survey/Overview
+    - Gender vs. Embeddings
+    - Demographics vs. NLP Model Performance
+- 4.(Proactive) NLP for studying misinformation
+  - 4.1 Propaganda
+  - 4.2 Misinformation
+  - 4.3 Fake news
+  - 4.4 Bias
+  - 4.5 Fact-checking
+- 5.(Self-Defensive) Mitigating Issues with Dataset Collection
+  - 5.1 Promoting data ethic norms for the community
+  - 5.2 User surveys about their data being used
+  - 5.3 Improving data quality for ML models
+- 6.(Proactive + Self-Defensive) NLP for all languages
+  - Motivation
+- 7.(Proactive + Self-Defensive) NLP for mental health
+  - Events and Resources
+- 8.More reading (for Systematic learning)
+  - Courses
+- 9.Engagement from Non-Academic Areas
+  - Non-Profit Movements
+- 10.Resources of (general) AI for social good
 - Acknowledgements
 
 
 
 ## 1. Meta-Info
-
-![image-20210301082802443](/Users/beautiful/Library/Application Support/typora-user-images/image-20210301082802443.png)
 
 ### 1.1 Events/News
 
@@ -79,7 +77,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
    [Summary] Four guidelines:  (1) formulate research questions making explicit theories of what “gender” is; (2) avoid modeling gender unless very relevant; (3) make explicit methods for assigning gender categories; and (4) respect the difficulties gender classification
 
-4. (Women researchers' glass ceiling; EMNLP 2018) **The glass ceiling in NLP.** *Natalie Schluter.* [[pdf](https://www.aclweb.org/anthology/D18-1301.pdf)]
+1. (Women researchers' glass ceiling; EMNLP 2018) **The glass ceiling in NLP.** *Natalie Schluter.* [[pdf](https://www.aclweb.org/anthology/D18-1301.pdf)]
 
 ## 3. Equality for all demographics
 
@@ -120,21 +118,35 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
    [Summary] Existing methods mostly hiding the bias, not removing it.
 
 1. (Gender in sentence embeddings; NAACL 2019) **On Measuring Social Biases in Sentence Encoders.** *Chandler May, Alex Wang, Shikha Bordia, Samuel R. Bowman, Rachel Rudinger.* [[pdf](https://www.aclweb.org/anthology/N19-1063.pdf)]
+
 1. (Gender in sentence embeddings; NeurIPS 2019) **Assessing Social and Intersectional Biases in Contextualized Word Representations.** *Yi Chern Tan, L. Elisa Celis.* [[pdf](https://arxiv.org/pdf/1911.01485.pdf)]
+
 1. (Gender in word embeddings; ACL 2019 Workshop) **Measuring bias in contextualized word representations. / Quantifying Social Biases in Contextual Word Representations.** *Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black, and Yulia Tsvetkov.* [[pdf](https://arxiv.org/pdf/1906.07337.pdf)]
 
 1. (Gender in coreference resolution; NAACL 2018) **Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods.** *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang.* [[pdf](https://www.aclweb.org/anthology/N18-2003.pdf)]
+
 1. (Gender in coreference resolution; NAACL 2018) **Gender Bias in Coreference Resolution.** *Rudinger, Jason Naradowsky, Brian Leonard, Benjamin Van Durme.*
+
 1. (Gender and race in sentiment analysis; \*SEM 2018) **Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems.** *Svetlana Kiritchenko, Saif Mohammad.* [[pdf](https://www.aclweb.org/anthology/S18-2005.pdf)]
+
 1. (Gender in POS tagging and parsing; ACL 2019) **Women’s Syntactic Resilience and Men’s Grammatical Luck: Gender-Bias in Part-of-Speech Tagging and Dependency Parsing.** *Aparna Garimella, Carmen Banea, Dirk Hovy, Rada Mihalcea.* [[pdf](https://www.aclweb.org/anthology/P19-1339.pdf)]
+
 1. (Gender in relation extraction; ACL 2020) **Towards Understanding Gender Bias in Relation Extraction.** *Andrew Gaut, Tony Sun, Shirlyn Tang, Yuxin Huang, Jing Qian, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang, William Yang Wang.* [[pdf](https://www.aclweb.org/anthology/2020.acl-main.265.pdf)] [[video](https://slideslive.com/38929244/towards-understanding-gender-bias-in-neural-relation-extraction)] [[data](https://www.aclweb.org/anthology/attachments/2020.acl-main.265.Dataset.zip)]
+
 1. (Gender in MT; Neural Computing and Applications 2019) **Assessing Gender Bias in Machine Translation – A Case Study with Google Translate.** *Marcelo O. R. Prates, Pedro H. C. Avelar, Luis Lamb.* [[pdf](https://arxiv.org/pdf/1809.02208)]
+
 1. (Gender in MT; ACL 2020) **Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem.** *Danielle Saunders, Bill Byrne.* [[pdf](https://arxiv.org/pdf/2004.04498.pdf)]
+
 1. (Gender in MT; EMNLP Findings 2020) **Automatically Identifying Gender Issues in Machine Translation using Perturbations.** *Hila Gonen, Kellie Webster.* [[pdf](https://arxiv.org/pdf/2004.14065.pdf)]
+
 1. (Gender in coreference resolution; ACL 2020) **Toward Gender-Inclusive Coreference Resolution.** *Yang Trista Cao, Hal Daumé III.* [[pdf](https://arxiv.org/pdf/1910.13913.pdf)]
+
 1. (Gender in NER; ACM 2019) **Man is to Person as Woman is to Location: Measuring Gender Bias in Named Entity Recognition.** *Ninareh Mehrabi, Thamme Gowda, Fred Morstatter, Nanyun Peng, Aram Galstyan.* [[pdf](https://arxiv.org/pdf/1910.10872.pdf)]
+
 1. (TACL 2018) **Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns.** *Kellie Webster, Marta Recasens, Vera Axelrod, Jason Baldridge* [[pdf](https://arxiv.org/pdf/1810.05201.pdf)]
+
 1. (EMNLP 2017) **Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints.** *Jieyu Zhao, Tianlu Wang, Mark Yatskar, Vicente Ordonez, Kai-Wei Chang.* [[pdf](https://arxiv.org/pdf/1707.09457.pdf)]
+
 1. (ACL 2020) **Mitigating Gender Bias Amplification in Distribution by Posterior Regularization.** *Shengyu Jia, Tao Meng, Jieyu Zhao, Kai-Wei Chang.* [[pdf](https://arxiv.org/pdf/2005.06251.pdf)]
 
 ##### Demographics vs. NLP Model Performance
@@ -234,7 +246,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
 
-## 7. NLP for mental health
+## 7. (Proactive + Self-Defensive) NLP for mental health
 
 1. **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)][[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
 
@@ -265,4 +277,3 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 ## Acknowledgements
 
 Lots of credits to the [reading list](https://web.stanford.edu/class/cs384/) of Stanford CS384.
-
