@@ -379,6 +379,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 ## 13. Resources of (general) AI for social good
 
 1. **Introduction to Key Concepts in AI and Machine Learning for Good.** _James Weis, Geeticka Chauhan_. [[slides](https://drive.google.com/file/d/1Bgls-veTF0vMlEm-0xerbMsQm7MGccxw/view)]
+2. (Call for AI-Human Cooperation) **Open Problems in Cooperative AI.** _Allan Dafoe, Edward Hughes, Yoram Bachrach, Tantum Collins, Kevin R. McKee, Joel Z. Leibo, Kate Larson, Thore Graepel_. [[pdf](https://arxiv.org/pdf/2012.08630.pdf)]
 
 ## Acknowledgements
 
