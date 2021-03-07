@@ -32,16 +32,21 @@ This is a reading list of papers on NLP for Social Good.
   - [5.3 Improving data quality for ML models](#53-improving-data-quality-for-ML)
 - [6. `Proactive + Patch` NLP for all languages](#6-proactive--patch-nlp-for-all-languages)
   - [Motivation](#Motivation)
-- [7. `Proactive` NLP for mental health](#7-proactive-nlp-for-mental-health)
+- [7. `Proactive` NLP for healthcare](#7-proactive-nlp-for-healthcare)
+  - [7.1 NLP for general healthcare (with EHRs)](#71-nlp-for-general-healthcare-with-ehrs)
+  - [7.2 NLP for mental health](#72-nlp-for-mental-health)
+    - [Psychotherapy and counseling](#psychotherapy-and-counseling)
+    - [NLP for happiness](#nlp-for-happiness)
   - [Events and Resources](#Events-and-Resources)
 - [8. `Proactive` NLP for education](#8-proactive-nlp-for-education)
-- [9. `Alert for Harm` NLP for Privacy Invasion/Surveilance](9-alert-for-harm-nlp-for-privacy-invasionsurveilance)
-- [10. `Alert for Harm` Large Language Models](10-alert-for-harm-large-language-models)
-- [11. More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
+- [9. `Proactive` NLP for climate change](#9-proactive-nlp-for-climate-change)
+- [10. `Alert for Harm` NLP for Privacy Invasion/Surveilance](#9-alert-for-harm-nlp-for-privacy-invasionsurveilance)
+- [11. `Alert for Harm` Large Language Models](#10-alert-for-harm-large-language-models)
+- [12. More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
   - [Courses](#Courses)
-- [12. Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
+- [13. Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
   - [Non-Profit Movements](#Non-Profit-Movements)
-- [13. Resources of (general) AI for social good](#11.-Resources-of-general-AI-for-social-good)
+- [14. Resources of (general) AI for social good](#11.-Resources-of-general-AI-for-social-good)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -157,6 +162,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 1. (Bias in dialog; AIES 2017) **Ethical Challenges in Data-Driven Dialogue Systems.** _Peter Henderson, Koustuv Sinha, Nicolas Angelard-Gontier, Nan Rosemary Ke, Genevieve Fried, Ryan Lowe, Joelle Pineau_.
    [[pdf](https://arxiv.org/pdf/1711.09050.pdf)]
 
+
 #### Demographics vs. NLP Model Performance
 
 1. (African American English; EMNLP 2016) **Demographic Dialectal Variation in Social Media: A Case Study of African-American English.** *Su Lin Blodgett, Lisa Green, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1608.08868.pdf)]
@@ -260,10 +266,55 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
 
-## 7. [Proactive] NLP for mental health
+## 7. [Proactive] NLP for healthcare
 
+### 7.1 NLP for general healthcare (with EHRs)
+#### Reviews
+1. (AMIA 2020) **A Review of Challenges and Opportunities in Machine Learning for Health.**
+
+_Marzyeh Ghassemi, Tristan Naumann, Peter Schulam, Andrew Beam, Irene Chen, Rajesh Ranganath_. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233077/)]
+
+   [Summary] E.g., Understanding causality is key
+
+1. (arXiv 2020) **Ethical Machine Learning in Health Care.** _Irene Chen, Emma Pierson, Sherri Rose, Shalmali Joshi, Kadija Ferryman, Marzyeh Ghassemi_. [[pdf](https://arxiv.org/pdf/2009.10576.pdf)]
+
+
+#### NLP for clinical notes
+
+1. (JAMIA 2017) **De-identification of patient notes with recurrent neural networks**. _Franck Dernoncourt, Ji Young Lee, Ozlem Uzuner, Peter Szolovits_.
+[[pdf](https://arxiv.org/pdf/1606.03475)]
+
+1. (JAMIA 2018) **Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes.** _Yuan Luo, Yu Cheng, Özlem Uzuner, Peter Szolovits, Justin Starren_. [[pdf](http://groups.csail.mit.edu/medg/ftp/psz-papers/J%20Am%20Med%20Inform%20Assoc%202017%20Luo.pdf)]
+
+2. (Machine Learning for Healthcare, 2020) **Fast, Structured Clinical Documentation via Contextual Autocomplete.** _Divya Gopinath, Monica Agrawal, Luke Murray, Steven Horng, David Karger, David Sontag_. [[pdf](https://arxiv.org/pdf/2007.15153)]
+
+1. (NER for heart disease patients, AAHPM 2020) **An Artificial Intelligence Algorithm to Identify Documented Symptoms in Patients with Heart Failure who Received Cardiac Resynchronization Therapy** _Richard Leiter, Enrico Santus, Zhijing Jin, Katherine Lee, Miryam Yusufov, Isabel Chien, Ashwin Ramaswamy, Edward Moseley, Yujie Qian, Deborah Schrag, Charlotta Lindvall_. [[abstract](https://www.sciencedirect.com/science/article/pii/S0885392420305248?casa_token=8RfqMdn4AC0AAAAA:qDJ7TTlb1r8YItKnwp5bzPQiiY7OIKZhZFnkb9HgM2irMNWSN1TPIl15vjRjG7ZgN9nLZ7gf)] [[paper](http://zhijing-jin.com/files/papers/NLP_for_CRT.pdf)]
+
+1. (Intimate Partner Violence prediction, PSB 2021 Oral) **Intimate Partner Violence and Injury Prediction From Radiology Reports.** _Irene Y. Chen, Emily Alsentzer, Hyesun Park, Richard Thomas, Babina Gosangi, Rahul Gujrathi, Bharti Khurana_. [[pdf](https://arxiv.org/pdf/2009.09084.pdf)]
+
+#### Bias problem (ML / NLP for Healthcare)
+1. (AMA Journal of Ethics, 2019) **Can AI Help Reduce Disparities in General Medical and Mental Health Care?.** _Irene Y. Chen, Peter Szolovits, and Marzyeh Ghassemi_.
+[[pdf](https://journalofethics.ama-assn.org/sites/journalofethics.ama-assn.org/files/2019-01/org1-1902_0.pdf)]
+
+   [Summary] There is bias w.r.t. gender, insurance type, etc.
+
+### 7.2 NLP for mental health
+#### Psychotherapy and counseling
 1. **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)][[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
 
+1. (EMNLP Workshop 2020) **Quantifying the Effects of COVID-19 on Mental Health Support Forums.** _Laura Biester, Katie Matton, Janarthanan Rajendran, Emily Mower Provost, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/2020.nlpcovid19-2.8.pdf)]
+
+1. (ACL 2020) **What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations.**
+_Verónica Pérez-Rosas, Xinyi Wu, Kenneth Resnicow, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/P19-1088.pdf)]
+
+1. (LREC 2020) **Inferring Social Media Users’ Mental Health Status from Multimodal Information.** _Zhentao Xu, Veronica Pérez-Rosas, Rada Mihalcea_.
+[[pdf](https://www.aclweb.org/anthology/2020.lrec-1.772.pdf)]
+#### NLP for happiness
+1. **Happiness Entailment: Automating Suggestions for Well-Being.** _Sara Evensen, Yoshihiko Suhara, Alon Halevy, Vivian Li, Wang-Chiew Tan, Saran Mumick_. [[pdf](https://arxiv.org/pdf/1907.10036.pdf)]
+
+1. (LREC 2018) **HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments.**
+_Akari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei Lopatenko, Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan, Yinzhan Xu_.
+[[pdf](https://arxiv.org/pdf/1801.07746.pdf)]
 #### Events and Resources
 
 1. (Every year) CLPsych: Computational Linguistics and Clinical Psychology Workshop [[website](https://clpsych.org/)]
@@ -320,7 +371,17 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 1. NLP for compiling Google searched articles to youth-friendly teaching materials
 1. Student personalization and engagement: assessment of learners’ language and cognitive skill levels and systems that detect and adapt to learners’ cognitive or emotional states
 
-## 9. [Alert for Harm] NLP for Privacy Invasion/Surveilance
+## 9. [Proactive] NLP for Climate Change
+
+
+1. (EMNLP Workshop 2017) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
+_Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
+1. (ICWSM 2020 Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
+### GreenNLP
+1. (ACL 2019) **Energy and policy considerations for deep learning in NLP.** _Emma Strubell, Ananya Ganesh, Andrew McCallum_. [[pdf](https://www.aclweb.org/anthology/P19-1355.pdf)] [[video](https://vimeo.com/384787604)]
+2. (CACM 2020) **Green AI.** _Roy Schwartz, Jesse Dodge, Noah A Smith, Oren  Etzioni_. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3381831)] [[video](https://www.youtube.com/watch?v=KnOpWgUCtaM&ab_channel=AssociationforComputingMachinery%28ACM%29)]
+
+## 10. [Alert for Harm] NLP for Privacy Invasion/Surveilance
 
 **Background**
 
@@ -358,28 +419,36 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. (Book 2019) **The age of surveillance capitalism.** _Shoshana Zuboff._ [[Amazon](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)] [[pdf](http://125.22.40.134:8080/jspui/bitstream/123456789/4220/1/Shoshana%20Zuboff%20-%20The%20Age%20of%20Surveillance%20Capitalism.pdf)]
 
-## 10. [Alert for Harm] Large Language Models
+## 11. [Alert for Harm] Large Language Models
 
 1. (FAccT 2021) **On the Dangers of Stochastic Parrots: Can Languae Models be Too Big.** _Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell_. [[pdf](http://faculty.washington.edu/ebender/papers/Stochastic_Parrots.pdf)] [[criticism](https://gist.github.com/yoavg/9fc9be2f98b47c189a513573d902fb27)]
 
-## 11. More reading (for Systematic learning)
+## 12. More reading (for Systematic learning)
 
-### 11.1 Courses
+### 12.1 Courses
 
 1. **Stanford CS 384: Ethical and Social Issues in NLP.** _Dan Jurafsky_. [[lectures](https://web.stanford.edu/class/cs384/)]
 1. **Computational Ethics for NLP.** [Yulia Tsvetkov](http://www.cs.cmu.edu/~ytsvetko/) and [Alan Black](http://www.cs.cmu.edu/~awb/). [[lectures](http://demo.clab.cs.cmu.edu/ethical_nlp2020/)]
 1. **Ethics in NLP.** [Emily Bender](http://faculty.washington.edu/ebender/). [[lectures](https://faculty.washington.edu/ebender/2017_575/)]
 
-## 12. Engagement from Non-Academic Areas
+## 13. Engagement from Non-Academic Areas
 
 ### Non-Profit Movements
 
 - (EA Movement) 80,000 Hours -> Career advice to design your career time (80,000 hours) in the rational way to optimize social good.
 
-## 13. Resources of (general) AI for social good
+## 14. Resources of (general) AI for social good
 
 1. **Introduction to Key Concepts in AI and Machine Learning for Good.** _James Weis, Geeticka Chauhan_. [[slides](https://drive.google.com/file/d/1Bgls-veTF0vMlEm-0xerbMsQm7MGccxw/view)]
+
+### Gov AI@Oxford, CHAI by Stuart Russell@Berkeley promotes AI that can be compatible with humans
 2. (Call for AI-Human Cooperation) **Open Problems in Cooperative AI.** _Allan Dafoe, Edward Hughes, Yoram Bachrach, Tantum Collins, Kevin R. McKee, Joel Z. Leibo, Kate Larson, Thore Graepel_. [[pdf](https://arxiv.org/pdf/2012.08630.pdf)]
+
+### Nick Bostrom: prioritize prevention of existential risks
+1. (2013) **Existential risk prevention as global priority.** _Nick Bostrom_
+
+### Other materials
+1. (2019) 24.131: Ethics of Technology [[reading list](https://www.pqwhite.com/uploads/1/2/8/3/128333712/ethics_of_technology_syllabus_final_12.3.pdf)]
 
 ## Acknowledgements
 
