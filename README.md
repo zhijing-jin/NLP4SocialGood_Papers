@@ -322,7 +322,7 @@ _Akari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei Lopate
 1. Research Fellowship Program (3-6 months) [[FAQ](https://docs.google.com/document/d/1_uQrOapzwy1JA8j38PX9unXDC_dzMyO7HT9jnhjxLEY/edit)]
 
 ## 8. [Proactive] NLP for education
-
+1. (Workshop) 16th Workshop on Innovative Use of NLP for Building Educational Applications@EACL 2021 [[website](https://sig-edu.org/bea/current)]
 #### Improving textbooks
 
 1. (ACM Symposium 2010) **Enriching Textbooks Through Data Mining.** _Rakesh Agrawal, Sreenivas Gollapudi, Krishnaram Kenthapadi, Nitish Srivastava, Raja Velu_. [[pdf](http://theory.stanford.edu/~kngk/papers/enrichingTextbooksThroughDataMining-DEV2010.pdf)]
