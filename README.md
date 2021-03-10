@@ -449,6 +449,8 @@ _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](ht
 
 ### Other materials
 1. (2019) 24.131: Ethics of Technology [[reading list](https://www.pqwhite.com/uploads/1/2/8/3/128333712/ethics_of_technology_syllabus_final_12.3.pdf)]
+1. (ICLR 2020) **Participatory Problem Formulation for Fairer Machine Learning Through Community Based System Dynamics.**
+_Donald Martin Jr., Vinodkumar Prabhakaran, Jill Kuhlberg, Andrew Smart, William S. Isaac_. [[pdf](https://arxiv.org/pdf/2005.07572.pdf)]
 
 ## Acknowledgements
 
