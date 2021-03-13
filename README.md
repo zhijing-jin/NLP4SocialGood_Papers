@@ -37,6 +37,7 @@ This is a reading list of papers on NLP for Social Good.
   - [7.2 NLP for mental health](#72-nlp-for-mental-health)
     - [Psychotherapy and counseling](#psychotherapy-and-counseling)
     - [NLP for happiness](#nlp-for-happiness)
+    - [Mental health on social media (e.g., hate speech, hope speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech)
   - [Events and Resources](#Events-and-Resources)
 - [8. `Proactive` NLP for education](#8-proactive-nlp-for-education)
 - [9. `Proactive` NLP for climate change](#9-proactive-nlp-for-climate-change)
@@ -315,6 +316,14 @@ _Verónica Pérez-Rosas, Xinyi Wu, Kenneth Resnicow, Rada Mihalcea_. [[pdf](http
 1. (LREC 2018) **HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments.**
 _Akari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei Lopatenko, Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan, Yinzhan Xu_.
 [[pdf](https://arxiv.org/pdf/1801.07746.pdf)]
+
+#### Mental health on social media (e.g., hate speech, hope speech)
+**HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion**
+_Bharathi Raja Chakravarthi_.
+[[pdf](https://www.aclweb.org/anthology/2020.peoples-1.5.pdf)]
+
+  [Summary] "Hope speech" is text that is encouraging, positive and supportive, as opposed to hate speech.
+
 #### Events and Resources
 
 1. (Every year) CLPsych: Computational Linguistics and Clinical Psychology Workshop [[website](https://clpsych.org/)]
