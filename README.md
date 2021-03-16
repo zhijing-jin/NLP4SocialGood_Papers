@@ -270,7 +270,9 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 ## 7. [Proactive] NLP for healthcare
 
 ### 7.1 NLP for general healthcare (with EHRs)
+
 #### Reviews
+
 1. (AMIA 2020) **A Review of Challenges and Opportunities in Machine Learning for Health.**
 
 _Marzyeh Ghassemi, Tristan Naumann, Peter Schulam, Andrew Beam, Irene Chen, Rajesh Ranganath_. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233077/)]
@@ -283,46 +285,56 @@ _Marzyeh Ghassemi, Tristan Naumann, Peter Schulam, Andrew Beam, Irene Chen, Raje
 #### NLP for clinical notes
 
 1. (JAMIA 2017) **De-identification of patient notes with recurrent neural networks**. _Franck Dernoncourt, Ji Young Lee, Ozlem Uzuner, Peter Szolovits_.
-[[pdf](https://arxiv.org/pdf/1606.03475)]
+   [[pdf](https://arxiv.org/pdf/1606.03475)]
 
 1. (JAMIA 2018) **Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes.** _Yuan Luo, Yu Cheng, Özlem Uzuner, Peter Szolovits, Justin Starren_. [[pdf](http://groups.csail.mit.edu/medg/ftp/psz-papers/J%20Am%20Med%20Inform%20Assoc%202017%20Luo.pdf)]
 
-2. (Machine Learning for Healthcare, 2020) **Fast, Structured Clinical Documentation via Contextual Autocomplete.** _Divya Gopinath, Monica Agrawal, Luke Murray, Steven Horng, David Karger, David Sontag_. [[pdf](https://arxiv.org/pdf/2007.15153)]
+1. (Machine Learning for Healthcare, 2020) **Fast, Structured Clinical Documentation via Contextual Autocomplete.** _Divya Gopinath, Monica Agrawal, Luke Murray, Steven Horng, David Karger, David Sontag_. [[pdf](https://arxiv.org/pdf/2007.15153)]
 
 1. (NER for heart disease patients, AAHPM 2020) **An Artificial Intelligence Algorithm to Identify Documented Symptoms in Patients with Heart Failure who Received Cardiac Resynchronization Therapy** _Richard Leiter, Enrico Santus, Zhijing Jin, Katherine Lee, Miryam Yusufov, Isabel Chien, Ashwin Ramaswamy, Edward Moseley, Yujie Qian, Deborah Schrag, Charlotta Lindvall_. [[abstract](https://www.sciencedirect.com/science/article/pii/S0885392420305248?casa_token=8RfqMdn4AC0AAAAA:qDJ7TTlb1r8YItKnwp5bzPQiiY7OIKZhZFnkb9HgM2irMNWSN1TPIl15vjRjG7ZgN9nLZ7gf)] [[paper](http://zhijing-jin.com/files/papers/NLP_for_CRT.pdf)]
 
 1. (Intimate Partner Violence prediction, PSB 2021 Oral) **Intimate Partner Violence and Injury Prediction From Radiology Reports.** _Irene Y. Chen, Emily Alsentzer, Hyesun Park, Richard Thomas, Babina Gosangi, Rahul Gujrathi, Bharti Khurana_. [[pdf](https://arxiv.org/pdf/2009.09084.pdf)]
 
 #### Bias problem (ML / NLP for Healthcare)
-1. (AMA Journal of Ethics, 2019) **Can AI Help Reduce Disparities in General Medical and Mental Health Care?.** _Irene Y. Chen, Peter Szolovits, and Marzyeh Ghassemi_.
-[[pdf](https://journalofethics.ama-assn.org/sites/journalofethics.ama-assn.org/files/2019-01/org1-1902_0.pdf)]
 
-   [Summary] There is bias w.r.t. gender, insurance type, etc.
+1. (AMA Journal of Ethics, 2019) **Can AI Help Reduce Disparities in General Medical and Mental Health Care?.** _Irene Y. Chen, Peter Szolovits, and Marzyeh Ghassemi_.
+   [[pdf](https://journalofethics.ama-assn.org/sites/journalofethics.ama-assn.org/files/2019-01/org1-1902_0.pdf)]
+
+    [Summary] There is bias w.r.t. gender, insurance type, etc.
 
 ### 7.2 NLP for mental health
+
 #### Psychotherapy and counseling
+
 1. **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)][[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
 
 1. (EMNLP Workshop 2020) **Quantifying the Effects of COVID-19 on Mental Health Support Forums.** _Laura Biester, Katie Matton, Janarthanan Rajendran, Emily Mower Provost, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/2020.nlpcovid19-2.8.pdf)]
 
 1. (ACL 2020) **What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations.**
-_Verónica Pérez-Rosas, Xinyi Wu, Kenneth Resnicow, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/P19-1088.pdf)]
+   _Verónica Pérez-Rosas, Xinyi Wu, Kenneth Resnicow, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/P19-1088.pdf)]
 
 1. (LREC 2020) **Inferring Social Media Users’ Mental Health Status from Multimodal Information.** _Zhentao Xu, Veronica Pérez-Rosas, Rada Mihalcea_.
-[[pdf](https://www.aclweb.org/anthology/2020.lrec-1.772.pdf)]
-#### NLP for happiness
-1. **Happiness Entailment: Automating Suggestions for Well-Being.** _Sara Evensen, Yoshihiko Suhara, Alon Halevy, Vivian Li, Wang-Chiew Tan, Saran Mumick_. [[pdf](https://arxiv.org/pdf/1907.10036.pdf)]
+   [[pdf](https://www.aclweb.org/anthology/2020.lrec-1.772.pdf)]
 
+#### NLP for happiness
+
+1. **Happiness Entailment: Automating Suggestions for Well-Being.** _Sara Evensen, Yoshihiko Suhara, Alon Halevy, Vivian Li, Wang-Chiew Tan, Saran Mumick_. [[pdf](https://arxiv.org/pdf/1907.10036.pdf)]
 1. (LREC 2018) **HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments.**
-_Akari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei Lopatenko, Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan, Yinzhan Xu_.
-[[pdf](https://arxiv.org/pdf/1801.07746.pdf)]
+   _Akari Asai, Sara Evensen, Behzad Golshan, Alon Halevy, Vivian Li, Andrei Lopatenko, Daniela Stepanov, Yoshihiko Suhara, Wang-Chiew Tan, Yinzhan Xu_.
+   [[pdf](https://arxiv.org/pdf/1801.07746.pdf)]
+1. (AffCon@AAAI, 2019) **Ingredients for Happiness: Modeling constructs via semi-supervised content driven inductive transfer.** *Bakhtiyar Syed, Vijayasaradhi Indurthi, Kulin Shah, Manish Gupta, Vasudeva Varma*. [[pdf](http://ceur-ws.org/Vol-2328/4_paper_19.pdf)]
 
 #### Mental health on social media (e.g., hate speech, hope speech)
+
 **HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion**
 _Bharathi Raja Chakravarthi_.
 [[pdf](https://www.aclweb.org/anthology/2020.peoples-1.5.pdf)]
 
   [Summary] "Hope speech" is text that is encouraging, positive and supportive, as opposed to hate speech.
+
+**Fermi at SemEval-2019 Task 5: Using Sentence Embeddings to identify Hate Speech against Immigrants and Women on Twitter**. *Vijayasaradhi Indurthi, Bakhtiyar Syed, Manish Shrivastava, Nikhil Chakravartula, Manish Gupta, Vasudeva Varma*. [[pdf](https://www.aclweb.org/anthology/S19-2009.pdf)]
+
+**Fermi at SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media using Sentence Embeddings.** *Vijayasaradhi Indurthi, Bakhtiyar Syed, Manish Shrivastava, Manish Gupta, Vasudeva Varma*. [[pdf](https://www.aclweb.org/anthology/S19-2109.pdf)]
 
 #### Events and Resources
 
@@ -331,7 +343,9 @@ _Bharathi Raja Chakravarthi_.
 1. Research Fellowship Program (3-6 months) [[FAQ](https://docs.google.com/document/d/1_uQrOapzwy1JA8j38PX9unXDC_dzMyO7HT9jnhjxLEY/edit)]
 
 ## 8. [Proactive] NLP for education
+
 1. (Workshop) 16th Workshop on Innovative Use of NLP for Building Educational Applications@EACL 2021 [[website](https://sig-edu.org/bea/current)]
+
 #### Improving textbooks
 
 1. (ACM Symposium 2010) **Enriching Textbooks Through Data Mining.** _Rakesh Agrawal, Sreenivas Gollapudi, Krishnaram Kenthapadi, Nitish Srivastava, Raja Velu_. [[pdf](http://theory.stanford.edu/~kngk/papers/enrichingTextbooksThroughDataMining-DEV2010.pdf)]
@@ -384,11 +398,13 @@ _Bharathi Raja Chakravarthi_.
 
 
 1. (EMNLP Workshop 2017) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
-_Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
+   _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
 1. (ICWSM 2020 Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
+
 ### GreenNLP
+
 1. (ACL 2019) **Energy and policy considerations for deep learning in NLP.** _Emma Strubell, Ananya Ganesh, Andrew McCallum_. [[pdf](https://www.aclweb.org/anthology/P19-1355.pdf)] [[video](https://vimeo.com/384787604)]
-2. (CACM 2020) **Green AI.** _Roy Schwartz, Jesse Dodge, Noah A Smith, Oren  Etzioni_. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3381831)] [[video](https://www.youtube.com/watch?v=KnOpWgUCtaM&ab_channel=AssociationforComputingMachinery%28ACM%29)]
+1. (CACM 2020) **Green AI.** _Roy Schwartz, Jesse Dodge, Noah A Smith, Oren  Etzioni_. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3381831)] [[video](https://www.youtube.com/watch?v=KnOpWgUCtaM&ab_channel=AssociationforComputingMachinery%28ACM%29)]
 
 ## 10. [Alert for Harm] NLP for Privacy Invasion/Surveilance
 
@@ -451,15 +467,18 @@ _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](ht
 1. **Introduction to Key Concepts in AI and Machine Learning for Good.** _James Weis, Geeticka Chauhan_. [[slides](https://drive.google.com/file/d/1Bgls-veTF0vMlEm-0xerbMsQm7MGccxw/view)]
 
 ### Gov AI@Oxford, CHAI by Stuart Russell@Berkeley promotes AI that can be compatible with humans
+
 2. (Call for AI-Human Cooperation) **Open Problems in Cooperative AI.** _Allan Dafoe, Edward Hughes, Yoram Bachrach, Tantum Collins, Kevin R. McKee, Joel Z. Leibo, Kate Larson, Thore Graepel_. [[pdf](https://arxiv.org/pdf/2012.08630.pdf)]
 
 ### Nick Bostrom: prioritize prevention of existential risks
+
 1. (2013) **Existential risk prevention as global priority.** _Nick Bostrom_
 
 ### Other materials
+
 1. (2019) 24.131: Ethics of Technology [[reading list](https://www.pqwhite.com/uploads/1/2/8/3/128333712/ethics_of_technology_syllabus_final_12.3.pdf)]
 1. (Discussion of community engagement, ICLR 2020) **Participatory Problem Formulation for Fairer Machine Learning Through Community Based System Dynamics.**
-_Donald Martin Jr., Vinodkumar Prabhakaran, Jill Kuhlberg, Andrew Smart, William S. Isaac_. [[pdf](https://arxiv.org/pdf/2005.07572.pdf)]
+   _Donald Martin Jr., Vinodkumar Prabhakaran, Jill Kuhlberg, Andrew Smart, William S. Isaac_. [[pdf](https://arxiv.org/pdf/2005.07572.pdf)]
 
 ## Acknowledgements
 
