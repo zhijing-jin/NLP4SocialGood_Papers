@@ -8,43 +8,43 @@ This is a reading list of papers on NLP for Social Good.
 
 (Hyperlinks only works in Chrome/Firefox/etc, not Safari.)
 
-- [Meta-Info](#1-meta-info)
-  - [Events and News](#11-eventsnews)
-  - [Overview Papers](#2-overview-papers)
-    - incl., [Proactive NLP](#proactive-nlp), [Patching NLP's intrinsic problems](#self-defensive-NLP)
-- Q1: Can we use NLP to **save** lifes?
-  - 1.1. [NLP for healthcare (with EHRs)](#71-nlp-for-general-healthcare-with-ehrs)
-    - Subtopics: Reviews, NLP on clinical notes, NLP to facilitate biomedical research, NLP to help reduce bias in Healthcare
-  - 1.2. NLP for disaster response
-  - 1.3. NLP to detect armed conflicts
-- Q2: Can we use NLP to **improve** lives? 
-  1. Knowledge is power - [NLP for education](#8-proactive-nlp-for-education)
-  2. How to make people happier? - NLP for mental health
-     - Subtopics: [Psychotherapy and counseling](#psychotherapy-and-counseling), [NLP for happiness](#nlp-for-happiness), [Mental health on social media (e.g., hate speech, hope speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech), Mental health through other text forms, [Workshops and Resources](#Events-and-Resources)
-- Q3: Can we use NLP to **help the common future** of all humans?
-  - 3.1 [NLP for climate change](#9-proactive-nlp-for-climate-change)
-  - 3.2 NLP for Human Rights
-    - `Alert for Harm` [Privacy Invasion/Surveilance](#9-alert-for-harm-nlp-for-privacy-invasionsurveilance)
-  - 3.2 Fight against the manipulation of thoughts
-    - Studying the existing trend, Studying media manipulation for political reasons, Fake news and misinformation.
-- Q4: Can we use NLP to help make all people **equal**?
-  - 4.1. NLP for all languages
-  - 4.2. NLP for gender/demographical equality
-- Q5: Are there concerns over the practice of NLP? Can we mitigate this?
-  - 5.1 Prevent future scandals of conversational bots - How dialog systems should handle verbal abuse
-  - 5.2 Who protects my privacy? - Privacy Issues with Dataset Collection
-    - [Promoting data ethic norms for the community](#51-promoting-data-ethic-norms-for-the-community)
-    - [User surveys about their data being used](#52-user-surveys-about-their-data-being-used), Building models that preserves privacy, 
-    - [Improving data quality for ML models](#53-improving-data-quality-for-ML)
-  - 5.3 Can we prevent our model from being a sexist/racist/etc?
-    - Background, Survey/Overview, Gender vs. Embeddings, Demographics vs. NLP Model Performance, Algorithmic fairness, Caveats of Large Language Models.
-  - 5.4 Can we save energy when training NLP models? - GreenNLP
-  - 5.5 Be alert of recommendation systems
-- [More reading (for Systematic learning)](#9.-More-reading-for-Systematic-learning)
-  - [Courses](#Courses)
-- [Engagement from Non-Academic Areas](#10.-Engagement-from-Non-Academic-Areas)
-  - [Non-Profit Movements](#Non-Profit-Movements)
-- [Resources of (general) AI for social good](#11.-Resources-of-general-AI-for-social-good)
+- [Meta-Info](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#meta-info)
+  - [Events and News](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#events-and-news)
+  - [Overview Papers](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#overview-papers)
+    - [Proactive NLP](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#overview-of-proactive-nlp-to-help-social-good), [Patching NLP's intrinsic problems](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#overview-of-methods-to-patch-intrinsic-problems-with-nlp-research-side-effects)
+- [Q1: Can we use NLP to **save** lifes?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q1-can-we-use-nlp-to-save-lifes)
+  - [1.1 NLP for healthcare (with EHRs)](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#11-nlp-for-healthcare-with-ehrs)
+    - [Reviews](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#reviews), [NLP on clinical notes](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-on-clinical-notes), [NLP to facilitate biomedical research](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-to-facilitate-biomedical-research), [NLP to help reduce bias in Healthcare](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-to-help-reduce-bias-in-healthcare)
+  - [1.2 NLP for disaster response](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#12-nlp-for-disaster-response)
+  - [1.3. NLP to detect armed conflicts](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#13-nlp-to-detect-armed-conflicts)
+- [Q2: Can we use NLP to **improve** lives?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q2-can-we-use-nlp-to-improve-lives) 
+  - [2.1 Knowledge is power - NLP for education](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#21-nlp-for-education)
+  - [2.2 How to make people happier? - NLP for mental health](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#22-nlp-for-mental-health)
+     - [Psychotherapy and counseling](#psychotherapy-and-counseling), [NLP for happiness](#nlp-for-happiness), [Mental health on social media (e.g., hate speech, hope speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech), [Mental health through other text forms](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#mental-health-through-other-text-forms), [Workshops and Resources](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#workshops-and-resources)
+- [Q3: Can we use NLP to **help the common future** of all humans?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q3-can-we-use-nlp-to-help-the-common-future-of-all-humans)
+  - [3.1 NLP for climate change](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#31-nlp-for-climate-change)
+  - [3.2 NLP for Human Rights](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#32-nlp-for-human-rights)
+    - [Detecting Human Right Violation](#detecting-human-right-violation), [Caveat: NLP for Privacy Invasion/Surveilance](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#please-dont-use-nlp-in-this-way-nlp-for-privacy-invasionsurveilance)
+  - [3.2 Fight against the manipulation of thoughts](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#33-fight-against-the-manipulation-of-thoughts)
+    - [Studying the existing trend](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#studying-the-existing-trend), [Studying media manipulation for political reasons](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#studying-media-manipulation-for-political-reasons), [Fake news and misinformation](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#fake-news-and-misinformation).
+- [Q4: Can we use NLP to help make all people **equal**?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q4-can-we-use-nlp-to-help-make-all-people-equal)
+  - [4.1 NLP for all languages](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#41-nlp-for-all-languages)
+  - [4.2 NLP for gender/demographical equality](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#42-nlp-for-genderdemographical-equality)
+    - [NLP to detect bias](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-to-detect-bias), [NLP to detect bias specifically on social media](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-to-detect-bias-specifically-on-social-media)
+- [Q5: Are there concerns over the practice of NLP? Can we mitigate this?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q5-are-there-concerns-over-the-practice-of-nlp-can-we-mitigate-this)
+  - [5.1 Prevent future scandals of conversational bots - How dialog systems should handle verbal abuse](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#51-prevent-future-scandals-of-conversational-bots---how-dialog-systems-should-handle-verbal-abuse)
+  - [5.2 Who protects my privacy? - Privacy Issues with Dataset Collection](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#52-who-protects-my-privacy---privacy-issues-with-dataset-collection)
+    - [Promoting data ethic norms for the community](#promoting-data-ethic-norms-for-the-community), [User surveys about their data being used](#user-surveys-about-their-data-being-used), [Building models that preserves privacy](#building-models-that-preserves-privacy), [Improving data quality for ML models](#improving-data-quality-for-ML-models)
+  - [5.3 Can we prevent our model from being a sexist/racist/etc?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#53-can-we-prevent-our-model-from-being-a-sexistracistetc)
+    - [Gender/Demographical bias in models and data - Background](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#genderdemographical-bias-in-models-and-data---background), [Survey/Overview](Survey/Overview), [Gender vs. Embeddings](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#gender-vs-embeddings), [Demographics vs. NLP Model Performance](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#demographics-vs-nlp-model-performance), [Algorithmic fairness](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#algorithmic-fairness), [Caveats of Large Language Models](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#caveats-of-large-language-models).
+  - [5.4 Can we save energy when training NLP models? - GreenNLP](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#54-can-we-save-energy-when-training-nlp-models---greennlp)
+  - [5.5 Be alert of recommendation systems](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#55-be-alert-of-recommendation-systems)
+  - [5.6 Equip AI with the same morals as humans](#56-equip-ai-with-the-same-morals-as-humans)
+- [More reading (for Systematic learning)](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#more-reading-for-systematic-learning)
+  - [Courses](#courses)
+- [Engagement from Non-Academic Areas](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#engagement-from-non-academic-areas)
+  - [Non-Profit Movements](#non-profit-movements)
+- [Resources of (general) AI for social good](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#resources-of-general-ai-for-social-good)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -267,6 +267,10 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 ### 3.2 NLP for Human Rights
 
+#### Detecting Human Right Violation
+
+1. **Paragraph-level Rationale Extraction through Regularization: A case study on European Court of Human Rights Cases.** *Ilias Chalkidis, Manos Fergadiotis, Dimitrios Tsarapatsanis, Nikolaos Aletras, Ion Androutsopoulos, Prodromos Malakasiotis*. [[pdf](https://arxiv.org/pdf/2103.13084.pdf)]
+
 #### [Please don't use NLP in this way] NLP for Privacy Invasion/Surveilance
 
 #### Background
@@ -293,7 +297,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 Keywords: Framing, persuation, manipulation.
 
-1. (EMNLP 2018) **Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies.** *Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov.* [[pdf](https://www.aclweb.org/anthology/D18-1393.pdf)](EMNLP 2019) 
+1. (EMNLP 2018) **Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies.** *Anjalie Field, Doron Kliger, Shuly Wintner, Jennifer Pan, Dan Jurafsky, and Yulia Tsvetkov.* [[pdf](https://www.aclweb.org/anthology/D18-1393.pdf)]
 2. (EMNLP 2019) **Fine-Grained Analysis of Propaganda in News Articles.** *Giovanni Da San Martino, Seunghak Yu, Alberto Barrón-Cedeño, Rostislav Petrov, Preslav Nakov.* [[pdf](https://www.aclweb.org/anthology/D19-1565.pdf)]
 3. (2019 CoNLL) **Predicting the Role of Political Trolls in Social Media.** _Atanas Atanasov, Gianmarco De Francisci Morales, Preslav Nakov_. [[pdf](https://aclanthology.org/K19-1096.pdf)]
 4. (2020 Harvard Review) **Cross-platform disinformation campaigns: Lessons learned and next steps.** _Tom Wilson, Kate Starbird_. [[pdf](https://misinforeview.hks.harvard.edu/article/cross-platform-disinformation-campaigns/)]
@@ -333,7 +337,7 @@ Keywords: Framing, persuation, manipulation.
 
 1. (WWW 2019) **Who falls for online political manipulation?** _Adam Badawy, Kristina Lerman, and Emilio Ferrara_. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3308560.3316494)]
 
-#### Fake news and Misinformation
+#### Fake news and misinformation
 
 1. (Journal of economic perspectives 2017) **Social Media and Fake News in the 2016 Election.** *Hunt Allcott, Matthew Gentzkow.* [[pdf](https://web.stanford.edu/~gentzkow/research/fakenews.pdf)]
 2. (Science 2018) **The spread of true and false news online.** *Vosoughi, Soroush, Deb Roy, and Sinan Aral*. [[pdf](https://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)]
@@ -346,21 +350,18 @@ Keywords: Framing, persuation, manipulation.
 6. (2017 EMNLP) **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.**
    _Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi_. [[pdf](https://aclanthology.org/D17-1317.pdf)]
 7. **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection.** _Kai Nakamura, Sharon Levy, William Yang Wang_. [[pdf](https://arxiv.org/pdf/1911.03854.pdf)]
-
 8. **Types, Sources, and Claims of COVID-19 Misinformation.**
    _J. Scott Brennen, Felix M. Simon, Philip N. Howard, and Rasmus Kleis Nielsen_. [[pdf](http://www.primaonline.it/wp-content/uploads/2020/04/COVID-19_reuters.pdf)]
-
 9. (arXiv 2020) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-
 10. (arXiv 2020) **Coronavirus on social media: Analyzing misinformation in Twitter conversations.** _Sharma, Karishma, Sungyong Seo, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua, and Yan Liu_.
     [[pdf](https://arxiv.org/pdf/2003.12309.pdf)]
-
 11. (iConference 2014) **Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing.**  *Kate Starbird, Jim Maddock, Mania Orand, Peg Achterman, Robert M. Mason.* [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/47257/308_ready.pdf?sequence=2&isAllowed=y)]
-12. (Nature 2020) **The online competition between pro- and anti-vaccination views.** *Neil F. Johnson, Nicolas Velásquez, Nicholas Johnson Restrepo, Rhys Leahy, Nicholas Gabriel, Sara El Oud, Minzhang Zheng, Pedro Manrique, Stefan Wuchty, Yonatan Lupu.* [[pdf](https://www.nature.com/articles/s41586-020-2281-1.pdf)]
-13. (ICWSM 2014) **Rumor Cascades.** *Adrien Friggeri, Lada A. Adamic, Dean Eckles, Justin Cheng.* [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8122/8110)]
-14. (AJPH 2018) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
-15. (Wired article 2020) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
-16. (1986, Raritan Quarterly Review) **On Bullshit.** _Harry Frankfurt._ [[pdf](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)]
+12. (2021 arXiv) **Misinfo Belief Frames: A Case Study on Covid & Climate News.** *Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2104.08790.pdf)]
+13. (Nature 2020) **The online competition between pro- and anti-vaccination views.** *Neil F. Johnson, Nicolas Velásquez, Nicholas Johnson Restrepo, Rhys Leahy, Nicholas Gabriel, Sara El Oud, Minzhang Zheng, Pedro Manrique, Stefan Wuchty, Yonatan Lupu.* [[pdf](https://www.nature.com/articles/s41586-020-2281-1.pdf)]
+14. (ICWSM 2014) **Rumor Cascades.** *Adrien Friggeri, Lada A. Adamic, Dean Eckles, Justin Cheng.* [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8122/8110)]
+15. (AJPH 2018) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
+16. (Wired article 2020) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
+17. (1986, Raritan Quarterly Review) **On Bullshit.** _Harry Frankfurt._ [[pdf](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)]
 
 
 ##### Fact-checking
@@ -404,13 +405,30 @@ Keywords: Framing, persuation, manipulation.
 
 ### 4.2 NLP for gender/demographical equality
 
-#### NLP to detect social media bias
+#### NLP to detect bias
 
-1. (2020 arXiv) **Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis.** _Caleb Ziems, Bing He, Sandeep Soni, Srijan Kumar_. [[pdf](https://arxiv.org/pdf/2005.12423.pdf)]
+1. (2021 ICWSM) **Measuring Societal Biases from Text Corpora with Smoothed First-Order Co-occurrence.** *Navid Rekabsaz, Robert West, James Henderson, Allan Hanbury*. (2020 ACL) [[pdf](https://arxiv.org/pdf/1812.10424.pdf)]
+2. (2020 ACL) **When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?** *Kenneth Joseph, Jonathan H. Morgan*. [[pdf](https://arxiv.org/pdf/2004.12043.pdf)]
+3. (2020 NBER Manuscript) **Stereotypes in High-Stakes Decisions: Evidence from U.S. Circuit Courts.** *Elliott Ash, Daniel L. Chen, Arianna Ornaghi.* [[pdf](http://elliottash.com/wp-content/uploads/2019/11/200205_Ash-Chen-Ornaghi.pdf)]
+4. (2019 ACL) **Entity-Centric Contextual Affective Analysis.** *Anjalie Field, Yulia Tsvetkov.* [[pdf](https://www.aclweb.org/anthology/P19-1243.pdf)]
+5. (2019 ACL) **Unsupervised Discovery of Gendered Language through Latent-Variable Modeling.** *Alexander Miserlis Hoyle, Lawrence Wolf-Sonkin, Hanna Wallach, Isabelle Augenstein, Ryan Cotterell*. [[pdf](https://aclanthology.org/P19-1167.pdf)]
+6. (2019 EMNLP) **Automatically Inferring Gender Associations from Language.** *Serina Chang, Kathy McKeown.* [[pdf](https://www.aclweb.org/anthology/D19-1579.pdf)]
+7. (2019 ICWSM) **Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.** *Anjalie Field, Gayatri Bhat, Yulia Tsvetkov*. [[pdf](https://arxiv.org/pdf/1904.04164.pdf)]
+8. (2019 BRiMS) **Relating Linguistic Gender Bias, Gender Values, and Gender Gaps: An International Analysis.** *Scott Friedman, Sonja Schmer-Galunder, Jeffrey Rye, Robert Goldman, and Anthony Chen*. [[pdf](http://sbp-brims.org/2019/proceedings/papers/working_papers/Friedman.pdf)]
+9. (2018 PNAS) **Word embeddings quantify 100 years of gender and ethnic stereotypes.** *Nikhil Garg, Londa Schiebinger, Dan Jurafsky, James Zou.* [[pdf](http://www.pnas.org/content/pnas/early/2018/03/30/1720347115.full.pdf)]
+10. (2017 PNAS) **Language from police body camera footage shows racial disparities in officer respect.** *Rob Voigt, Nicholas P. Camp, Vinodkumar Prabhakaran, William L. Hamilton, Rebecca C. Hetey, Camilla M. Griffiths, David Jurgens, Dan Jurafsky, and Jennifer L. Eberhardt.* [[pdf](http://www.pnas.org/content/early/2017/05/30/1702413114)]
+11. (2016 IJCAI Workshop) **Tie-breaker: Using language models to quantify gender bias in sports journalism.** *Liye Fu, Cristian Danescu-Niculescu-Mizil, and Lillian Lee.* [[pdf](http://www.cs.cornell.edu/~cristian/papers/gender-tennis.pdf)]
+12. (2016 CWSM) **Shirtless and Dangerous: Quantifying Linguistic Signals of Gender Bias in an Online Fiction Writing Community.** *Ethan Fast, Tina Vachovsky, Michael S. Bernstein.* [[pdf](https://arxiv.org/pdf/1603.08832.pdf)]
+
+#### NLP to detect bias specifically on social media
+
+1. (2020 ACL) **Social Bias Frames: Reasoning about Social and Power Implications of Language.** *Maarten Sap, Saadia Gabriel, Lianhui Qin, Dan Jurafsky, Noah A. Smith, Yejin Choi*. [[pdf](https://arxiv.org/pdf/1911.03891.pdf)]
+2. (2020 arXiv) **Racism is a Virus: Anti-Asian Hate and Counterhate in Social Media during the COVID-19 Crisis.** _Caleb Ziems, Bing He, Sandeep Soni, Srijan Kumar_. [[pdf](https://arxiv.org/pdf/2005.12423.pdf)]
 
 
 3. (2020 EMNLP Workshop) **Detecting East Asian Prejudice on Social Media.**
    _Bertie Vidgen, Austin Botelho, David Broniatowski, Ella Guest, Matthew Hall, Helen Margetts, Rebekah Tromble, Zeerak Waseem, Scott Hale_. [[pdf](https://arxiv.org/pdf/2005.03909.pdf)]
+4. (2017 CSCW) **Girls rule, boys drool: Extracting semantic and affective stereotypes from Twitter.** *Kenneth Joseph, Wei Wei, and Kathleen M. Carley.* [[pdf](https://dl.acm.org/doi/pdf/10.1145/2998181.2998187)]
 
 ## Q5: Are there concerns over the practice of NLP? Can we mitigate this?
 
@@ -419,9 +437,9 @@ Keywords: Framing, persuation, manipulation.
 1. (2016, International Journal of Communication) **Talking to Bots: Symbiotic Agency and the Case of Tay.**
    _Gina Neff, Peter Nagy_. [[pdf](http://csi.asu.edu/wp-content/uploads/2018/01/6277-22501-1-PB.pdf)]
 2. (2020 CHI) **Empathy Is All You Need: How a Conversational Agent Should Respond to Verbal Abuse.** _Hyojin Chin, Lebogang Wame Molefi, Mun Yong Yi_. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3313831.3376461?casa_token=0HtnPh4QXLUAAAAA:clbj3rPckx29q8EOX5zXvolv1k3gBA3PX-3d__mABU0jbJ_eFpqtZoWBBWo_4-zV3YQJCSVJ6xg)]
-3. (2018 CHI) **Let's Talk About Race: Identity, Chatbots, and AI.** _Ari Schlesinger, Kenton P. O'Hara, Alex S. Taylor_. [[pdf](https://static1.squarespace.com/static/5a8b405a18b27d5478196dca/t/5a8b690d24a694d7072d25a1/1519085853799/chi18-schlesinger-LetsTalkAboutRace.pdf)]
-4. (2018 ACL workshop) **#MeToo: How Conversational Systems Respond to Sexual Harassment.** _Amanda Cercas Curry, Verena Rieser_. [[pdf](https://aclanthology.org/W18-0802v2.pdf)]
-5. (2019 UNESCO Report) **I'd Blush if I Could: Closing Gender Divides in Digital Skills Through Education** [[pdf](https://unesdoc.unesco.org/ark:/48223/pf0000367416.page=1]
+3. (2019 UNESCO Report) **I'd Blush if I Could: Closing Gender Divides in Digital Skills Through Education** [[pdf](https://unesdoc.unesco.org/ark:/48223/pf0000367416.page=1)]
+4. (2018 CHI) **Let's Talk About Race: Identity, Chatbots, and AI.** _Ari Schlesinger, Kenton P. O'Hara, Alex S. Taylor_. [[pdf](https://static1.squarespace.com/static/5a8b405a18b27d5478196dca/t/5a8b690d24a694d7072d25a1/1519085853799/chi18-schlesinger-LetsTalkAboutRace.pdf)]
+5. (2018 ACL workshop) **#MeToo: How Conversational Systems Respond to Sexual Harassment.** _Amanda Cercas Curry, Verena Rieser_. [[pdf](https://aclanthology.org/W18-0802v2.pdf)]
 6. (2016 EMNLP) **How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation.**
    _Chia-Wei Liu, Ryan Lowe, Iulian Serban, Mike Noseworthy, Laurent Charlin, Joelle Pineau_. [[pdf](https://aclanthology.org/D16-1230.pdf)]
 
@@ -580,6 +598,11 @@ Keywords: Framing, persuation, manipulation.
 ### 5.5 Be alert of recommendation systems
 
 1. (2019 SSRN) **Recommender systems and their ethical challenges.** _Silvia Milano, Mariarosaria Taddeo, and Luciano Floridi_. [[pdf](https://link.springer.com/content/pdf/10.1007/s00146-020-00950-y.pdf)]
+
+### 5.6 Equip AI with the same morals as humans
+
+1. (2020 EMNLP) **Social Chemistry 101: Learning to Reason about Social and Moral Norms.** *Maxwell Forbes, Jena D. Hwang, Vered Shwartz, Maarten Sap, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2011.00620.pdf)]
+2. (2019 arXiv) **BERT has a Moral Compass: Improvements of ethical and moral values of machines.** *Patrick Schramowski, Cigdem Turan, Sophie Jentzsch, Constantin Rothkopf, Kristian Kersting*. [[pdf](https://arxiv.org/pdf/1912.05238.pdf)]
 
 ## More reading (for Systematic learning)
 
