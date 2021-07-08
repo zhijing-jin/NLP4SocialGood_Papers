@@ -20,7 +20,7 @@ This is a reading list of papers on NLP for Social Good.
 - [Q2: Can we use NLP to **improve** lives?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q2-can-we-use-nlp-to-improve-lives) 
   - [2.1 Knowledge is power - NLP for education](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#21-nlp-for-education)
   - [2.2 How to make people happier? - NLP for mental health](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#22-nlp-for-mental-health)
-     - [Psychotherapy and counseling](#psychotherapy-and-counseling), [NLP for happiness](#nlp-for-happiness), [Mental health on social media (e.g., hate speech, hope speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech), [Mental health through other text forms](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#mental-health-through-other-text-forms), [Workshops and Resources](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#workshops-and-resources)
+    - [Psychotherapy and counseling](#psychotherapy-and-counseling), [NLP for happiness](#nlp-for-happiness), [Mental health on social media (e.g., hate speech, hope speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech), [Mental health through other text forms](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#mental-health-through-other-text-forms), [Workshops and Resources](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#workshops-and-resources)
 - [Q3: Can we use NLP to **help the common future** of all humans?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q3-can-we-use-nlp-to-help-the-common-future-of-all-humans)
   - [3.1 NLP for climate change](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#31-nlp-for-climate-change)
   - [3.2 NLP for Human Rights](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#32-nlp-for-human-rights)
@@ -111,14 +111,11 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 1. (2017 JAMIA) **De-identification of patient notes with recurrent neural networks**. _Franck Dernoncourt, Ji Young Lee, Ozlem Uzuner, Peter Szolovits_.
    [[pdf](https://arxiv.org/pdf/1606.03475)]
-
 2. (2018 JAMIA) **Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes.** _Yuan Luo, Yu Cheng, Özlem Uzuner, Peter Szolovits, Justin Starren_. [[pdf](http://groups.csail.mit.edu/medg/ftp/psz-papers/J%20Am%20Med%20Inform%20Assoc%202017%20Luo.pdf)]
-
 3. (2020, Machine Learning for Healthcare) **Fast, Structured Clinical Documentation via Contextual Autocomplete.** _Divya Gopinath, Monica Agrawal, Luke Murray, Steven Horng, David Karger, David Sontag_. [[pdf](https://arxiv.org/pdf/2007.15153)]
-
 4. (2020 AAHPM; NER for heart disease patients) **An Artificial Intelligence Algorithm to Identify Documented Symptoms in Patients with Heart Failure who Received Cardiac Resynchronization Therapy** _Richard Leiter, Enrico Santus, Zhijing Jin, Katherine Lee, Miryam Yusufov, Isabel Chien, Ashwin Ramaswamy, Edward Moseley, Yujie Qian, Deborah Schrag, Charlotta Lindvall_. [[abstract](https://www.sciencedirect.com/science/article/pii/S0885392420305248?casa_token=8RfqMdn4AC0AAAAA:qDJ7TTlb1r8YItKnwp5bzPQiiY7OIKZhZFnkb9HgM2irMNWSN1TPIl15vjRjG7ZgN9nLZ7gf)] [[paper](http://zhijing-jin.com/files/papers/NLP_for_CRT.pdf)]
-
 5. (2021 PSB Oral, Intimate Partner Violence prediction) **Intimate Partner Violence and Injury Prediction From Radiology Reports.** _Irene Y. Chen, Emily Alsentzer, Hyesun Park, Richard Thomas, Babina Gosangi, Rahul Gujrathi, Bharti Khurana_. [[pdf](https://arxiv.org/pdf/2009.09084.pdf)]
+6. (2020 MLH) **UPSTAGE: Unsupervised Context Augmentation for Utterance Classification in Patient-Provider Communication.** *Do June Min, Veronica Perez-Rosas, Shihchen Kuo, William H. Herman, Rada Mihalcea*. [[pdf](http://proceedings.mlr.press/v126/min20a/min20a.pdf)]
 
 #### NLP to facilitate biomedical research
 
@@ -215,15 +212,16 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 #### Psychotherapy and counseling
 
-1. (2016 TACL) **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)][[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
-
-2. (2020 EMNLP Workshop) **Quantifying the Effects of COVID-19 on Mental Health Support Forums.** _Laura Biester, Katie Matton, Janarthanan Rajendran, Emily Mower Provost, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/2020.nlpcovid19-2.8.pdf)]
-
-3. (2020 ACL) **What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations.**
+1. (2020 ACL) **What Makes a Good Counselor? Learning to Distinguish between High-quality and Low-quality Counseling Conversations.**
    _Verónica Pérez-Rosas, Xinyi Wu, Kenneth Resnicow, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/P19-1088.pdf)]
-
-4. (2020 LREC) **Inferring Social Media Users’ Mental Health Status from Multimodal Information.** _Zhentao Xu, Veronica Pérez-Rosas, Rada Mihalcea_.
+2. (2020 LREC) **Inferring Social Media Users’ Mental Health Status from Multimodal Information.** _Zhentao Xu, Veronica Pérez-Rosas, Rada Mihalcea_.
    [[pdf](https://www.aclweb.org/anthology/2020.lrec-1.772.pdf)]
+3. (2020 EMNLP Workshop) **Quantifying the Effects of COVID-19 on Mental Health Support Forums.** _Laura Biester, Katie Matton, Janarthanan Rajendran, Emily Mower Provost, Rada Mihalcea_. [[pdf](https://www.aclweb.org/anthology/2020.nlpcovid19-2.8.pdf)]
+4. (2020 arXiv) **Expressive Interviewing: A Conversational System for Coping with COVID-19.** *Charles Welch, Allison Lahnala, Verónica Pérez-Rosas, Siqi Shen, Sarah Seraj, Larry An, Kenneth Resnicow, James Pennebaker, Rada Mihalcea*. [[pdf](https://arxiv.org/pdf/2007.03819.pdf)]
+5. (2017 ACL) **Understanding and Predicting Empathic Behavior in Counseling Therapy.** *Verónica Pérez-Rosas, Rada Mihalcea, Kenneth Resnicow, Satinder Singh, Lawrence An*. [[pdf](https://aclanthology.org/P17-1131.pdf)]
+6. (2017 EACL) **Predicting Counselor Behaviors in Motivational Interviewing Encounters.** *Verónica Pérez-Rosas, Rada Mihalcea, Kenneth Resnicow, Satinder Singh, Lawrence An, Kathy J. Goggin, Delwyn Catley*. [[pdf](https://aclanthology.org/E17-1106.pdf)]
+7. (2016 TACL) **Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health.** _Tim Althoff, Kevin Clark, Jure Leskovec_. [[pdf](https://www.aclweb.org/anthology/Q16-1033.pdf)] [[slides@Stanford](https://web.stanford.edu/class/cs124/lec/counseling_slides.pdf)] [[video](https://vimeo.com/239248873)]
+8. (2016 ACL Workshop) **Building a Motivational Interviewing Dataset.** *Verónica Pérez-Rosas, Rada Mihalcea, Kenneth Resnicow, Satinder Singh, Lawrence An*. [[pdf](https://aclanthology.org/W16-0305.pdf)]
 
 #### NLP for happiness
 
@@ -259,11 +257,12 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 ### 3.1 NLP for climate change
 
-1. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
-2. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-3. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
+1. (2021NeurIPS Workshop) **CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.** *Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, Markus Leippold*. [[pdf](https://arxiv.org/pdf/2012.00614.pdf)]
+2. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
+3. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
+4. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
    _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
-4. (2020 ICWSM Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
+5. (2020 ICWSM Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
 
 ### 3.2 NLP for Human Rights
 
@@ -339,57 +338,61 @@ Keywords: Framing, persuation, manipulation.
 
 #### Fake news and misinformation
 
-1. (Journal of economic perspectives 2017) **Social Media and Fake News in the 2016 Election.** *Hunt Allcott, Matthew Gentzkow.* [[pdf](https://web.stanford.edu/~gentzkow/research/fakenews.pdf)]
-2. (Science 2018) **The spread of true and false news online.** *Vosoughi, Soroush, Deb Roy, and Sinan Aral*. [[pdf](https://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)]
-3. (2018 ACM) **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities.**
-   _Xinyi Zhou, Reza Zafarani_. [[pdf](https://arxiv.org/pdf/1812.00315.pdf)]
-4. (2019 ACM) **Combating Fake News: A Survey on Identification and Mitigation Techniques.**
-   _Karishma Sharma, Feng Qian, He Jiang, Natali Ruchansky, Ming Zhang, Yan Liu_. [[pdf](https://arxiv.org/pdf/1901.06437.pdf)]
-5. (2017 ACL) **Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection.**
-   _William Yang Wang_. [[pdf](https://aclanthology.org/P17-2067.pdf)]
-6. (2017 EMNLP) **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.**
-   _Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi_. [[pdf](https://aclanthology.org/D17-1317.pdf)]
-7. **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection.** _Kai Nakamura, Sharon Levy, William Yang Wang_. [[pdf](https://arxiv.org/pdf/1911.03854.pdf)]
-8. **Types, Sources, and Claims of COVID-19 Misinformation.**
+1. (2021 arXiv) **Misinfo Belief Frames: A Case Study on Covid & Climate News.** *Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2104.08790.pdf)]
+2. (2020 Nature) **The online competition between pro- and anti-vaccination views.** *Neil F. Johnson, Nicolas Velásquez, Nicholas Johnson Restrepo, Rhys Leahy, Nicholas Gabriel, Sara El Oud, Minzhang Zheng, Pedro Manrique, Stefan Wuchty, Yonatan Lupu.* [[pdf](https://www.nature.com/articles/s41586-020-2281-1.pdf)]
+3. (2020 LREC) **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection.** _Kai Nakamura, Sharon Levy, William Yang Wang_. [[pdf](https://arxiv.org/pdf/1911.03854.pdf)]
+4. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
+5. (2020 European Urology Focus) **Fake News: Spread of Misinformation about Urological Conditions on Social Media.** *Stacy Loeb, Jacob Taylor, James F. Borina, Rada Mihalcea, Veronica Perez-Rosas, Nataliya Byrne, Austin L. Chiang, Aisha Langford* [[pdf](https://pdf.sciencedirectassets.com/313345/1-s2.0-S2405456920X00046/1-s2.0-S2405456919303529/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCKsEjjPNjlJsfMt3e23FtEeEnJDG5l6L29fc8ik53lxwIhAOIMxiLuNAvE1c0PoQm4YE4dMfQ%2Bdfdpy0mc4LWDG0TJKvoDCHoQBBoMMDU5MDAzNTQ2ODY1Igx33MysHIfw3mhbXvwq1wO3NwEf%2FDWNFJzsmZIDU1TfpmbXt8k4Iu22UBJUYq4kSAR%2BVXwqd%2B4tIZk4XD119PC%2BleSlXAw5N2LAq2P4q7sr%2FECOTm8KH9FRbh8nTPcR4SXE%2FSpCs74HN0KG3e6Yf9UsCOyaCcbiGwLa%2BriHo%2B7tgq67BLLMu%2BoLMrW60je%2BLiKRS%2FwwsHJmyGZeLAtxCcqzOlbtCBP4Qgc3jln%2FmE0S%2F7c1gNoo8RoLFLXxY2N1lXZlgxTTh%2BmO2pfZe6avn2QmHlDmknoWPnjmXrh9IqeNcaFNI%2Be%2BYR26tT0Oa1ZBkOVKbE1624i2bR49xFJt73bpqLYVLN4z8EAhfqUaYGFxkqA0B11aH2OKE5ni3AWwPYqezieMnLkRp4kDRzqqyt%2BS%2F%2FnzMyACH9Y5Zk%2BX%2Fm6YGQRHi3OimWH6MscYG8%2F8jxYnh8KZcASdIhmVc0M6oMO2eq6iJpo7UZ2yLgjen9x79YzWPhHUdev8rHdlez3yehgWEcu1kC9yf86%2FMN%2BqY%2FvftDz6ZhnIxWKsAUbfPjViXZrmJZKN9x%2BmXdyBRb%2FNj3rkHRC23MdFGlC8dBohaIRMZe7VBEsXWzeblm2A8iuIfvcStEJ1RwAmWd6Cbquk%2FqueRDD4A5cwmNOchwY6pAGAKdSnEh1tpbF4e52R6uNCBc63fxTW%2FFDRW8u4qPSb3996gsbc3YB9RatsXqK6YPm%2FwCWau19rzXQw8cVq5hgYA5ZSq2k%2FMe%2FnN7RwOkW3BcfM262S9ZFkcyo30kL1KQzzR2lsn%2BXvErc5pKcIxzVYoenBXM2gRUo0E19y1nGRadweFW23HWBYbAslx9NDoWU1K2IkEftJugM8CwrI0ZKtYdQeAQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210708T172916Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQIW74AH5%2F20210708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d8fab83822c84077bca42a27c8551e963b54adc5389579d39967863fc4365eae&hash=0e4c4222bd2f474056055491f9783c0aece2ee229a6a481e87cc438b840e5ace&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2405456919303529&tid=spdf-82cd8286-7d6a-4111-a142-eefa00a83d02&sid=09bc6380973146447e7b4c99d7360cd2983bgxrqb&type=client)]
+6. (2020 arXiv) **Coronavirus on social media: Analyzing misinformation in Twitter conversations.** _Sharma, Karishma, Sungyong Seo, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua, and Yan Liu_.
+   [[pdf](https://arxiv.org/pdf/2003.12309.pdf)]
+7. (2020, Reuters Institute) **Types, Sources, and Claims of COVID-19 Misinformation.**
    _J. Scott Brennen, Felix M. Simon, Philip N. Howard, and Rasmus Kleis Nielsen_. [[pdf](http://www.primaonline.it/wp-content/uploads/2020/04/COVID-19_reuters.pdf)]
-9. (arXiv 2020) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-10. (arXiv 2020) **Coronavirus on social media: Analyzing misinformation in Twitter conversations.** _Sharma, Karishma, Sungyong Seo, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua, and Yan Liu_.
-    [[pdf](https://arxiv.org/pdf/2003.12309.pdf)]
-11. (iConference 2014) **Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing.**  *Kate Starbird, Jim Maddock, Mania Orand, Peg Achterman, Robert M. Mason.* [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/47257/308_ready.pdf?sequence=2&isAllowed=y)]
-12. (2021 arXiv) **Misinfo Belief Frames: A Case Study on Covid & Climate News.** *Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2104.08790.pdf)]
-13. (Nature 2020) **The online competition between pro- and anti-vaccination views.** *Neil F. Johnson, Nicolas Velásquez, Nicholas Johnson Restrepo, Rhys Leahy, Nicholas Gabriel, Sara El Oud, Minzhang Zheng, Pedro Manrique, Stefan Wuchty, Yonatan Lupu.* [[pdf](https://www.nature.com/articles/s41586-020-2281-1.pdf)]
-14. (ICWSM 2014) **Rumor Cascades.** *Adrien Friggeri, Lada A. Adamic, Dean Eckles, Justin Cheng.* [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8122/8110)]
-15. (AJPH 2018) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
-16. (Wired article 2020) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
-17. (1986, Raritan Quarterly Review) **On Bullshit.** _Harry Frankfurt._ [[pdf](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)]
+8. (2020 Wired article) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
+9. (2019 ACM) **Combating Fake News: A Survey on Identification and Mitigation Techniques.**
+   _Karishma Sharma, Feng Qian, He Jiang, Natali Ruchansky, Ming Zhang, Yan Liu_. [[pdf](https://arxiv.org/pdf/1901.06437.pdf)]
+10. (2018 COLING) **Automatic Detection of Fake News.** *Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea*. [[pdf](https://aclanthology.org/C18-1287.pdf)]
+11. (2018 Science) **The spread of true and false news online.** *Vosoughi, Soroush, Deb Roy, and Sinan Aral*. [[pdf](https://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)]
+12. (2018 ACM) **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities.**
+    _Xinyi Zhou, Reza Zafarani_. [[pdf](https://arxiv.org/pdf/1812.00315.pdf)]
+13. (2018 AJPH) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
+14. (2017 ACL) **Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection.**
+    _William Yang Wang_. [[pdf](https://aclanthology.org/P17-2067.pdf)]
+15. (2017 EMNLP) **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.**
+    _Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi_. [[pdf](https://aclanthology.org/D17-1317.pdf)]
+16. (2017, Journal of economic perspectives) **Social Media and Fake News in the 2016 Election.** *Hunt Allcott, Matthew Gentzkow.* [[pdf](https://web.stanford.edu/~gentzkow/research/fakenews.pdf)]
+17. (2014 ICWSM) **Rumor Cascades.** *Adrien Friggeri, Lada A. Adamic, Dean Eckles, Justin Cheng.* [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8122/8110)]
+18. (2014 iConference) **Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing.**  *Kate Starbird, Jim Maddock, Mania Orand, Peg Achterman, Robert M. Mason.* [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/47257/308_ready.pdf?sequence=2&isAllowed=y)]
+19. (1986, Raritan Quarterly Review) **On Bullshit.** _Harry Frankfurt._ [[pdf](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)]
 
 
 ##### Fact-checking
 
-1. (EMNLP 2019) **MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims.** *Augenstein, Isabelle, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, and Jakob Grue Simonsen.* [[pdf](https://www.aclweb.org/anthology/D19-1475.pdf)]
+1. (2021 arXiv) **Extractive and Abstractive Explanations for Fact-Checking and Evaluation of News.** *Ashkan Kazemi, Zehua Li, Verónica Pérez-Rosas, Rada Mihalcea*. [[pdf](https://arxiv.org/pdf/2104.12918.pdf)]
 
-2. (CL 2020) **The Limitations of Stylometry for Detecting Machine-Generated Fake News.** *Tal Schuster, Roei Schuster, Darsh J Shah, Regina Barzilay.* [[pdf](https://arxiv.org/pdf/1908.09805.pdf)]
+2. (2020 ACL) **That is a Known Lie: Detecting Previously Fact-Checked Claims.** _Shaden Shaar, Giovanni Da San Martino, Nikolay Babulkov, Preslav Nakov_.
+   [[pdf](https://arxiv.org/pdf/2005.06058.pdf)]
 
-3. (2020 EMNLP) **Fact or Fiction: Verifying Scientific Claims.**
+3. (2020 CL) **The Limitations of Stylometry for Detecting Machine-Generated Fake News.** *Tal Schuster, Roei Schuster, Darsh J Shah, Regina Barzilay.* [[pdf](https://arxiv.org/pdf/1908.09805.pdf)]
+
+4. (2020 EMNLP) **Fact or Fiction: Verifying Scientific Claims.**
    _David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi_. [[pdf](https://arxiv.org/pdf/2004.14974.pdf)]
 
-4. (2020 ICWSM) **A Benchmark Dataset of Check-worthy Factual Claims.**
+5. (2020 ICWSM) **A Benchmark Dataset of Check-worthy Factual Claims.**
    _Fatma Arslan, Naeemul Hassan, Chengkai Li, Mark Tremayne_. [[pdf](https://arxiv.org/pdf/2004.14425.pdf)]
 
-5. (2020 ACL) **Generating Fact Checking Explanations.** _Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein_. [[pdf](https://arxiv.org/pdf/2004.05773.pdf)]
+6. (2020 ACL) **Generating Fact Checking Explanations.** _Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein_. [[pdf](https://arxiv.org/pdf/2004.05773.pdf)]
 
-6. (NeurIPS 2019) **Defending Against Neural Fake News.** *Rowan Zellers, Ari Holtzman, Hannah Rashkin, Yonatan Bisk, Ali Farhadi, Franziska Roesner, Yejin Choi.* [[pdf](https://proceedings.neurips.cc/paper/2019/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)]
+7. (2019 EMNLP) **MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims.** *Augenstein, Isabelle, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, and Jakob Grue Simonsen.* [[pdf](https://www.aclweb.org/anthology/D19-1475.pdf)]
+
+8. (2019 NeurIPS) **Defending Against Neural Fake News.** *Rowan Zellers, Ari Holtzman, Hannah Rashkin, Yonatan Bisk, Ali Farhadi, Franziska Roesner, Yejin Choi.* [[pdf](https://proceedings.neurips.cc/paper/2019/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf)]
 
    [Summary] Fake news generated by a large neural network, _Grover_, can appear more trustworthy than those written by human. Since the most accurate discriminator against _Grover_ in the trial is _Grover_ itself, the authors decided to release the model to researchers to facilitate misinformation detection, despite the potential damage it could cause as a fake news generator.
-
-7. (NAACL 2018) **FEVER: a large-scale dataset for Fact Extraction and VERification.** *James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal.* [[pdf](https://www.aclweb.org/anthology/N18-1074.pdf)]
-
-8. (2020 ACL) **That is a Known Lie: Detecting Previously Fact-Checked Claims.** _Shaden Shaar, Giovanni Da San Martino, Nikolay Babulkov, Preslav Nakov_.
-   [[pdf](https://arxiv.org/pdf/2005.06058.pdf)]
 
 9. (2019 EMNLP) **Evaluating adversarial attacks against multiple fact verification systems.** _James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal_. [[pdf](https://aclanthology.org/D19-1292.pdf)]
 
 10. (2019 EMNLP) **Towards Debiasing Fact Verification Models.** _Tal Schuster, Darsh Shah, Yun Jie Serene Yeo, Daniel Roberto Filizzola Ortiz, Enrico Santus, Regina Barzilay_. [[pdf](https://aclanthology.org/D19-1341.pdf)]
+
+11. (2018 NAACL) **FEVER: a large-scale dataset for Fact Extraction and VERification.** *James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal.* [[pdf](https://www.aclweb.org/anthology/N18-1074.pdf)]
 
 ## Q4: Can we use NLP to help make all people **equal**?
 
@@ -516,13 +519,15 @@ Keywords: Framing, persuation, manipulation.
 
 #### Survey/Overview
 
-1. (arXiv 2020) **Language (Technology) is Power: A Critical Survey of "Bias" in NLP** *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach.* [[pdf](https://arxiv.org/pdf/2005.14050.pdf)]
+1. (2020 arXiv) **Language (Technology) is Power: A Critical Survey of "Bias" in NLP.** *Su Lin Blodgett, Solon Barocas, Hal Daumé III, Hanna Wallach.* [[pdf](https://arxiv.org/pdf/2005.14050.pdf)]
 
    [Summary] Surveyed 147 papers. NLP researchers should articulate (1) what "bias" they mean—i.e., what kinds of system behaviors are harmful, in what ways, to whom, and why, and (2) normative reasoning behind.
 
-2. (Book 2018) **Algorithms of Oppression.** *Safiya Noble.* [[Amazon](https://www.amazon.de/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245)]
+2. (2019 ACL) **Mitigating Gender Bias in Natural Language Processing: Literature Review.** *Tony Sun, Andrew Gaut, Shirlyn Tang, Yuxin Huang, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang, William Yang Wang*. [[pdf](https://aclanthology.org/P19-1159.pdf)]
 
-3. (NIPS Keynote 2017) **The trouble with bias.** *Kate Crawford.*
+3. (2018 Book) **Algorithms of Oppression.** *Safiya Noble.* [[Amazon](https://www.amazon.de/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245)]
+
+4. (2017 NIPS Keynote) **The trouble with bias.** *Kate Crawford.*
 
 #### Gender vs. Embeddings
 
@@ -572,11 +577,11 @@ Keywords: Framing, persuation, manipulation.
 
 1. (African American English; EMNLP 2016) **Demographic Dialectal Variation in Social Media: A Case Study of African-American English.** *Su Lin Blodgett, Lisa Green, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1608.08868.pdf)]
 2. (African American English; PNAS 2020) **Racial Disparity in Automated Speech Recognition.** *Allison Koenecke, Andrew Nam, Emily Lake, Joe Nudell, Minnie Quartey, Zion Mengesha, Connor Toups, John Rickford, Dan Jurafsky, and Sharad Goel.*
-3. (ACL 2017 Workshop) **Social Bias in Elicited Natural Language Inferences.** *Rachel Rudinger, Chandler May, Benjamin Van Durme.* [[pdf](https://www.aclweb.org/anthology/W17-1609.pdf)]
-
-4. (Interspeech 2017) **Effects of talker dialect, gender and race on accuracy of Bing speech and YouTube automatic captions.** *Rachael Tatman, Conner Kasten.* [[pdf](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1746.PDF)]
-5. (Annual Review of Political Science 2016) **Race as a Bundle of Sticks: Designs that Estimate Effects of Seemingly Immutable Characteristics.** *Maya Sen, Omar Wasow.* [[pdf](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)]
-6. (KDD 2017 Workshop) **Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English.** *Su Lin Blodgett, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1707.00061.pdf)]
+3. (2020 ACL) **Social Biases in NLP Models as Barriers for Persons with Disabilities.** *Ben Hutchinson, Vinodkumar Prabhakaran, Emily Denton, Kellie Webster, Yu Zhong, Stephen Denuyl.* [[pdf](https://arxiv.org/pdf/2005.00813.pdf)]
+4. (ACL 2017 Workshop) **Social Bias in Elicited Natural Language Inferences.** *Rachel Rudinger, Chandler May, Benjamin Van Durme.* [[pdf](https://www.aclweb.org/anthology/W17-1609.pdf)]
+5. (Interspeech 2017) **Effects of talker dialect, gender and race on accuracy of Bing speech and YouTube automatic captions.** *Rachael Tatman, Conner Kasten.* [[pdf](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1746.PDF)]
+6. (Annual Review of Political Science 2016) **Race as a Bundle of Sticks: Designs that Estimate Effects of Seemingly Immutable Characteristics.** *Maya Sen, Omar Wasow.* [[pdf](https://scholar.harvard.edu/files/msen/files/race_causality.pdf)]
+7. (KDD 2017 Workshop) **Racial Disparity in Natural Language Processing: A Case Study of Social Media African-American English.** *Su Lin Blodgett, Brendan O'Connor.* [[pdf](https://arxiv.org/pdf/1707.00061.pdf)]
 
 #### Algorithmic fairness
 
