@@ -257,10 +257,11 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 ### 3.1 NLP for climate change
 
-1. (2021NeurIPS Workshop) **CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.** *Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, Markus Leippold*. [[pdf](https://arxiv.org/pdf/2012.00614.pdf)]
-2. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
-3. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-4. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
+1. (Climate Change AI movement; see Table 1's column titled "NLP" for how NLP can help) **Tackling Climate Change with Machine Learning.** _David Rolnick, Priya L. Donti, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio_. [[pdf](https://arxiv.org/pdf/1906.05433.pdf)]
+2. (2021NeurIPS Workshop) **CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.** *Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, Markus Leippold*. [[pdf](https://arxiv.org/pdf/2012.00614.pdf)]
+3. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
+4. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
+5. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
    _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
 5. (2020 ICWSM Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
 
