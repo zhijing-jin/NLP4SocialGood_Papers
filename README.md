@@ -56,7 +56,8 @@ This is a reading list of papers on NLP for Social Good.
 
 1. [Workshop] **NLP for Positive Impact**@ACL 2021 [[Website](https://sites.google.com/view/nlp4positiveimpact2021)]
    Organized by _Anjalie Field, Shrimai Prabhumoye, Maarten Sap, Zhijing Jin, Jieyu Zhao, Chris Brockett_.
-2. ACL 2021 has the new theme track "NLP for Social Good." Accepted papers will be discussed at ACL 2021.
+2. AAAI has the Special Track on AI for Social Impact [[Call for Papers by Sept 8, 2021](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)]
+3. ACL 2021 has the new theme track "NLP for Social Good." Accepted papers will be discussed at ACL 2021.
 
 3. Ethics in NLP - ACL Wiki. [[Website](https://aclweb.org/aclwiki/Ethics_in_NLP)]
 
