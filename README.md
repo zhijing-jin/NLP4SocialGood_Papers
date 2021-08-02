@@ -262,7 +262,9 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 2. (2021NeurIPS Workshop) **CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.** *Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, Markus Leippold*. [[pdf](https://arxiv.org/pdf/2012.00614.pdf)]
 3. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
 4. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-5. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
+5. (2020 NeurIPS Workshop) **ClimaText: A Dataset for Climate Change Topic Detection.**
+_Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippold_. [[pdf](https://arxiv.org/pdf/2012.00483.pdf)]
+6. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
    _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
 5. (2020 ICWSM Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
 
