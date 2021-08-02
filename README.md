@@ -259,11 +259,12 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 ### 3.1 NLP for climate change
 
 1. (Climate Change AI movement; see Table 1's column titled "NLP" for how NLP can help) **Tackling Climate Change with Machine Learning.** _David Rolnick, Priya L. Donti, Lynn H. Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, Nikola Milojevic-Dupont, Natasha Jaques, Anna Waldman-Brown, Alexandra Luccioni, Tegan Maharaj, Evan D. Sherwin, S. Karthik Mukkavilli, Konrad P. Kording, Carla Gomes, Andrew Y. Ng, Demis Hassabis, John C. Platt, Felix Creutzig, Jennifer Chayes, Yoshua Bengio_. [[pdf](https://arxiv.org/pdf/1906.05433.pdf)]
-2. (2021NeurIPS Workshop) **CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.** *Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, Markus Leippold*. [[pdf](https://arxiv.org/pdf/2012.00614.pdf)]
-3. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
-4. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-5. (2020 NeurIPS Workshop) **ClimaText: A Dataset for Climate Change Topic Detection.**
+2. (2021 SSRN) **Cheap Talk and Cherry-Picking: What ClimateBert has to say on Corporate Climate Risk Disclosures.** _Julia Anna Bingler, Mathias Kraus, Markus Leippold_. [[pdf](https://poseidon01.ssrn.com/delivery.php?ID=416071110104123079115069085008087091040034086039061011092095124127008112065091074110053110119106112108049065000102114125083000033051039018060119002016085091076064095038053111119078068088120105126068020074003124108071085105099126001099086088071124006&EXT=pdf&INDEX=TRUE)]
+3. (2020 NeurIPS Workshop) **CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.** *Thomas Diggelmann, Jordan Boyd-Graber, Jannis Bulian, Massimiliano Ciaramita, Markus Leippold*. [[pdf](https://arxiv.org/pdf/2012.00614.pdf)]
+6. (2020 NeurIPS Workshop) **ClimaText: A Dataset for Climate Change Topic Detection.**
 _Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippold_. [[pdf](https://arxiv.org/pdf/2012.00483.pdf)]
+4. (2020 EMNLP Findings) **Detecting Stance in Media on Global Warming.** _Yiwei Luo, Dallas Card, Dan Jurafsky_. [[pdf](https://arxiv.org/pdf/2010.15149.pdf)]
+5. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
 6. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
    _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
 5. (2020 ICWSM Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
