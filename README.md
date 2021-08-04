@@ -409,9 +409,10 @@ Keywords: Framing, persuation, manipulation.
 
 #### Motivation
 
-1. (ACL 2020) **The State and Fate of Linguistic Diversity and Inclusion in the NLP World.** *Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali, and Monojit Choudhury.* [[pdf](https://arxiv.org/pdf/2004.09095.pdf)]
+1. (2020 ACL) **The State and Fate of Linguistic Diversity and Inclusion in the NLP World.** *Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali, and Monojit Choudhury.* [[pdf](https://arxiv.org/pdf/2004.09095.pdf)]
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
+1. (2021 ACL Demo) **ChrEnTranslate: Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback.** _Shiyue Zhang, Benjamin Frey, Mohit Bansal_. [[pdf](https://arxiv.org/pdf/2107.14800.pdf)]
 
 ### 4.2 NLP for gender/demographical equality
 
