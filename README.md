@@ -17,7 +17,7 @@ This is a reading list of papers on NLP for Social Good.
     - [Reviews](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#reviews), [NLP on clinical notes](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-on-clinical-notes), [NLP to facilitate biomedical research](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-to-facilitate-biomedical-research), [NLP to help reduce bias in Healthcare](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#nlp-to-help-reduce-bias-in-healthcare)
   - [1.2 NLP for disaster response](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#12-nlp-for-disaster-response)
   - [1.3. NLP to detect armed conflicts](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#13-nlp-to-detect-armed-conflicts)
-- [Q2: Can we use NLP to **improve** lives?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q2-can-we-use-nlp-to-improve-lives) 
+- [Q2: Can we use NLP to **improve** lives?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q2-can-we-use-nlp-to-improve-lives)
   - [2.1 Knowledge is power - NLP for education](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#21-nlp-for-education)
   - [2.2 How to make people happier? - NLP for mental health](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#22-nlp-for-mental-health)
     - [Psychotherapy and counseling](#psychotherapy-and-counseling), [NLP for happiness](#nlp-for-happiness), [Mental health on social media (e.g., hate speech, hope speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech), [Mental health through other text forms](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#mental-health-through-other-text-forms), [Workshops and Resources](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#workshops-and-resources)
@@ -89,7 +89,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 2. (2017, NLP Ethics workshop; Ethical issues with *shared tasks*) **Ethical Considerations in NLP Shared Tasks**. *Carla Parra Escartín, Wessel Reijers, Teresa Lynn, Joss Moorkens, Andy Way, Chao-Hong Liu.* [[pdf](https://www.aclweb.org/anthology/W17-1608.pdf)]
 
-3. (2017 NLP Ethics workshop) **Gender as a variable in natural-language processing: Ethical considerations.** *Brian N. Larson*. 
+3. (2017 NLP Ethics workshop) **Gender as a variable in natural-language processing: Ethical considerations.** *Brian N. Larson*.
 
    [Summary] Four guidelines:  (1) formulate research questions making explicit theories of what “gender” is; (2) avoid modeling gender unless very relevant; (3) make explicit methods for assigning gender categories; and (4) respect the difficulties gender classification
 
@@ -134,8 +134,20 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 ### 1.2 NLP for disaster response
 
+
+#### Resources and Datasets
+1. (2021 ICWSM) **CrisisBench: Benchmarking Crisis-related Social Media Datasets for Humanitarian Information Processing.** _Firoj Alam, Hassan Sajjad, Muhammad Imran and Ferda Ofli_ [[pdf](https://ojs.aaai.org/index.php/ICWSM/article/view/18115/17918)]
+
+2. (2021 ICWSM) **HumAID: Human-Annotated Disaster Incidents Data from Twitter with Deep Learning Benchmarks** _Firoj Alam, Umair Qazi, Muhammad Imran and Ferda Ofli_ [[pdf](https://ojs.aaai.org/index.php/ICWSM/article/view/18116/17919)]
+
+3. (2018 ICWSM) **CrisisMMD: Multimodal Twitter Datasets from Seven Natural Disasters**
+_Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id=ufRcbe7vPo)]
+
+#### Models
 1. (2020 IEEE) **The Ivory Tower Lost: How College Students Respond Differently than the General Public to the COVID-19 Pandemic.**
    _Viet Duong, Phu Pham, Tongyu Yang, Yu Wang, Jiebo Luo_. [[pdf](https://arxiv.org/pdf/2004.09968.pdf)]
+2. (2018 ACL) **Domain Adaptation with Adversarial Training and Graph Embeddings.** _Firoj Alam, Shafiq Joty, Muhammad Imran_  [[pdf](https://aclanthology.org/P18-1099.pdf)]
+
 
 ### 1.3 NLP to detect armed conflicts
 
@@ -320,7 +332,7 @@ Keywords: Framing, persuation, manipulation.
 13. (2020) **Potemkin Pages and Personas: Assessing GRU Online Operations, 2014-2019.** _Renee DiResta, Shelby Grossman_. [[pdf](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/potemkin-pages-personas-sio-wp.pdf)]
 14. (2020 Book) **Blame it on Iran, Qatar, and Turkey: An analysis of a Twitter and Facebook operation linked to Egypt, the UAE, and Saudi Arabia.** _Shelby Grossman, Khadija H., Renée DiResta, Tara Kheradpir, and Carly Miller_. [[pdf](https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/20200402_blame_it_on_iran_qatar_and_turkey_v2_0.pdf)]
 15. (2018 Book) **Network propaganda: Manipulation, disinformation, and radicalization in American politics.** _Benkler, Yochai, Robert Faris, and Hal Roberts_.
-16. (1928) **Propaganda.** _Edward Bernays._ 
+16. (1928) **Propaganda.** _Edward Bernays._
 
 
 1. (2019 NAACL) **Issue Framing in Online Discussion Fora.** _Mareike Hartmann, Tallulah Jansen, Isabelle Augenstein, Anders Søgaard_.
@@ -347,29 +359,34 @@ Keywords: Framing, persuation, manipulation.
 
 1. (2021 arXiv) **Misinfo Belief Frames: A Case Study on Covid & Climate News.** *Saadia Gabriel, Skyler Hallinan, Maarten Sap, Pemi Nguyen, Franziska Roesner, Eunsol Choi, Yejin Choi*. [[pdf](https://arxiv.org/pdf/2104.08790.pdf)]
 2. (2020 Nature) **The online competition between pro- and anti-vaccination views.** *Neil F. Johnson, Nicolas Velásquez, Nicholas Johnson Restrepo, Rhys Leahy, Nicholas Gabriel, Sara El Oud, Minzhang Zheng, Pedro Manrique, Stefan Wuchty, Yonatan Lupu.* [[pdf](https://www.nature.com/articles/s41586-020-2281-1.pdf)]
-3. (2020 LREC) **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection.** _Kai Nakamura, Sharon Levy, William Yang Wang_. [[pdf](https://arxiv.org/pdf/1911.03854.pdf)]
-4. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
-5. (2020 European Urology Focus) **Fake News: Spread of Misinformation about Urological Conditions on Social Media.** *Stacy Loeb, Jacob Taylor, James F. Borina, Rada Mihalcea, Veronica Perez-Rosas, Nataliya Byrne, Austin L. Chiang, Aisha Langford* [[pdf](https://pdf.sciencedirectassets.com/313345/1-s2.0-S2405456920X00046/1-s2.0-S2405456919303529/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCKsEjjPNjlJsfMt3e23FtEeEnJDG5l6L29fc8ik53lxwIhAOIMxiLuNAvE1c0PoQm4YE4dMfQ%2Bdfdpy0mc4LWDG0TJKvoDCHoQBBoMMDU5MDAzNTQ2ODY1Igx33MysHIfw3mhbXvwq1wO3NwEf%2FDWNFJzsmZIDU1TfpmbXt8k4Iu22UBJUYq4kSAR%2BVXwqd%2B4tIZk4XD119PC%2BleSlXAw5N2LAq2P4q7sr%2FECOTm8KH9FRbh8nTPcR4SXE%2FSpCs74HN0KG3e6Yf9UsCOyaCcbiGwLa%2BriHo%2B7tgq67BLLMu%2BoLMrW60je%2BLiKRS%2FwwsHJmyGZeLAtxCcqzOlbtCBP4Qgc3jln%2FmE0S%2F7c1gNoo8RoLFLXxY2N1lXZlgxTTh%2BmO2pfZe6avn2QmHlDmknoWPnjmXrh9IqeNcaFNI%2Be%2BYR26tT0Oa1ZBkOVKbE1624i2bR49xFJt73bpqLYVLN4z8EAhfqUaYGFxkqA0B11aH2OKE5ni3AWwPYqezieMnLkRp4kDRzqqyt%2BS%2F%2FnzMyACH9Y5Zk%2BX%2Fm6YGQRHi3OimWH6MscYG8%2F8jxYnh8KZcASdIhmVc0M6oMO2eq6iJpo7UZ2yLgjen9x79YzWPhHUdev8rHdlez3yehgWEcu1kC9yf86%2FMN%2BqY%2FvftDz6ZhnIxWKsAUbfPjViXZrmJZKN9x%2BmXdyBRb%2FNj3rkHRC23MdFGlC8dBohaIRMZe7VBEsXWzeblm2A8iuIfvcStEJ1RwAmWd6Cbquk%2FqueRDD4A5cwmNOchwY6pAGAKdSnEh1tpbF4e52R6uNCBc63fxTW%2FFDRW8u4qPSb3996gsbc3YB9RatsXqK6YPm%2FwCWau19rzXQw8cVq5hgYA5ZSq2k%2FMe%2FnN7RwOkW3BcfM262S9ZFkcyo30kL1KQzzR2lsn%2BXvErc5pKcIxzVYoenBXM2gRUo0E19y1nGRadweFW23HWBYbAslx9NDoWU1K2IkEftJugM8CwrI0ZKtYdQeAQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210708T172916Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQIW74AH5%2F20210708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d8fab83822c84077bca42a27c8551e963b54adc5389579d39967863fc4365eae&hash=0e4c4222bd2f474056055491f9783c0aece2ee229a6a481e87cc438b840e5ace&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2405456919303529&tid=spdf-82cd8286-7d6a-4111-a142-eefa00a83d02&sid=09bc6380973146447e7b4c99d7360cd2983bgxrqb&type=client)]
-6. (2020 arXiv) **Coronavirus on social media: Analyzing misinformation in Twitter conversations.** _Sharma, Karishma, Sungyong Seo, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua, and Yan Liu_.
+3. (2021 ICWSM) **Fighting the COVID-19 Infodemic in Social Media: A Holistic Perspective and a Call to Arms**
+_Firoj Alam, Fahim Dalvi, Shaden Shaar, Nadir Durrani, Hamdy Mubarak, Alex Nikolov, Giovanni Da San Martino, Ahmed Abdelali, Hassan Sajjad, Kareem Darwish, Preslav Nakov_ [[pdf](https://openreview.net/pdf?id=Zva2gqQ-9OL)]
+4. (2021 arXiv) **A Survey on Multimodal Disinformation Detection** _Firoj Alam, Stefano Cresci, Tanmoy Chakraborty, Fabrizio Silvestri, Dimiter Dimitrov, Giovanni Da San Martino, Shaden Shaar, Hamed Firooz, Preslav Nakov_
+[[pdf](https://arxiv.org/abs/2103.12541)]
+5. (2021 IJCAI) **Automated Fact-Checking for Assisting Human Fact-Checkers** _Preslav Nakov, David Corney, Maram Hasanain, Firoj Alam, Tamer Elsayed, Alberto Barrón-Cedeño, Paolo Papotti, Shaden Shaar, Giovanni Da San Martino_ [[pdf](https://arxiv.org/abs/2103.07769)]
+6. (2020 LREC) **r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection.** _Kai Nakamura, Sharon Levy, William Yang Wang_. [[pdf](https://arxiv.org/pdf/1911.03854.pdf)]
+7. (2020 arXiv) **You are right. I am ALARMED -- But by Climate Change Counter Movement.** *Shraey Bhatia, Jey Han Lau, Timothy Baldwin.* [[pdf](https://arxiv.org/pdf/2004.14907.pdf)]
+8. (2020 European Urology Focus) **Fake News: Spread of Misinformation about Urological Conditions on Social Media.** *Stacy Loeb, Jacob Taylor, James F. Borina, Rada Mihalcea, Veronica Perez-Rosas, Nataliya Byrne, Austin L. Chiang, Aisha Langford* [[pdf](https://pdf.sciencedirectassets.com/313345/1-s2.0-S2405456920X00046/1-s2.0-S2405456919303529/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCKsEjjPNjlJsfMt3e23FtEeEnJDG5l6L29fc8ik53lxwIhAOIMxiLuNAvE1c0PoQm4YE4dMfQ%2Bdfdpy0mc4LWDG0TJKvoDCHoQBBoMMDU5MDAzNTQ2ODY1Igx33MysHIfw3mhbXvwq1wO3NwEf%2FDWNFJzsmZIDU1TfpmbXt8k4Iu22UBJUYq4kSAR%2BVXwqd%2B4tIZk4XD119PC%2BleSlXAw5N2LAq2P4q7sr%2FECOTm8KH9FRbh8nTPcR4SXE%2FSpCs74HN0KG3e6Yf9UsCOyaCcbiGwLa%2BriHo%2B7tgq67BLLMu%2BoLMrW60je%2BLiKRS%2FwwsHJmyGZeLAtxCcqzOlbtCBP4Qgc3jln%2FmE0S%2F7c1gNoo8RoLFLXxY2N1lXZlgxTTh%2BmO2pfZe6avn2QmHlDmknoWPnjmXrh9IqeNcaFNI%2Be%2BYR26tT0Oa1ZBkOVKbE1624i2bR49xFJt73bpqLYVLN4z8EAhfqUaYGFxkqA0B11aH2OKE5ni3AWwPYqezieMnLkRp4kDRzqqyt%2BS%2F%2FnzMyACH9Y5Zk%2BX%2Fm6YGQRHi3OimWH6MscYG8%2F8jxYnh8KZcASdIhmVc0M6oMO2eq6iJpo7UZ2yLgjen9x79YzWPhHUdev8rHdlez3yehgWEcu1kC9yf86%2FMN%2BqY%2FvftDz6ZhnIxWKsAUbfPjViXZrmJZKN9x%2BmXdyBRb%2FNj3rkHRC23MdFGlC8dBohaIRMZe7VBEsXWzeblm2A8iuIfvcStEJ1RwAmWd6Cbquk%2FqueRDD4A5cwmNOchwY6pAGAKdSnEh1tpbF4e52R6uNCBc63fxTW%2FFDRW8u4qPSb3996gsbc3YB9RatsXqK6YPm%2FwCWau19rzXQw8cVq5hgYA5ZSq2k%2FMe%2FnN7RwOkW3BcfM262S9ZFkcyo30kL1KQzzR2lsn%2BXvErc5pKcIxzVYoenBXM2gRUo0E19y1nGRadweFW23HWBYbAslx9NDoWU1K2IkEftJugM8CwrI0ZKtYdQeAQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20210708T172916Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQIW74AH5%2F20210708%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d8fab83822c84077bca42a27c8551e963b54adc5389579d39967863fc4365eae&hash=0e4c4222bd2f474056055491f9783c0aece2ee229a6a481e87cc438b840e5ace&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S2405456919303529&tid=spdf-82cd8286-7d6a-4111-a142-eefa00a83d02&sid=09bc6380973146447e7b4c99d7360cd2983bgxrqb&type=client)]
+9. (2020 arXiv) **Coronavirus on social media: Analyzing misinformation in Twitter conversations.** _Sharma, Karishma, Sungyong Seo, Chuizheng Meng, Sirisha Rambhatla, Aastha Dua, and Yan Liu_.
    [[pdf](https://arxiv.org/pdf/2003.12309.pdf)]
-7. (2020, Reuters Institute) **Types, Sources, and Claims of COVID-19 Misinformation.**
+10. (2020, Reuters Institute) **Types, Sources, and Claims of COVID-19 Misinformation.**
    _J. Scott Brennen, Felix M. Simon, Philip N. Howard, and Rasmus Kleis Nielsen_. [[pdf](http://www.primaonline.it/wp-content/uploads/2020/04/COVID-19_reuters.pdf)]
-8. (2020 Wired article) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
-9. (2019 ACM) **Combating Fake News: A Survey on Identification and Mitigation Techniques.**
+11. (2020 Wired article) **The Professors Who Call ‘Bullshit’ on Covid-19 Misinformation.** *Jevin West, Carl Bergstrom.* [[website](https://www.wired.com/story/professors-call-bullshit-covid-19-misinformation/)]
+12. (2019 ACM) **Combating Fake News: A Survey on Identification and Mitigation Techniques.**
    _Karishma Sharma, Feng Qian, He Jiang, Natali Ruchansky, Ming Zhang, Yan Liu_. [[pdf](https://arxiv.org/pdf/1901.06437.pdf)]
-10. (2018 COLING) **Automatic Detection of Fake News.** *Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea*. [[pdf](https://aclanthology.org/C18-1287.pdf)]
-11. (2018 Science) **The spread of true and false news online.** *Vosoughi, Soroush, Deb Roy, and Sinan Aral*. [[pdf](https://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)]
-12. (2018 ACM) **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities.**
+13. (2018 COLING) **Automatic Detection of Fake News.** *Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea*. [[pdf](https://aclanthology.org/C18-1287.pdf)]
+14. (2018 Science) **The spread of true and false news online.** *Vosoughi, Soroush, Deb Roy, and Sinan Aral*. [[pdf](https://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)]
+15. (2018 ACM) **A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities.**
     _Xinyi Zhou, Reza Zafarani_. [[pdf](https://arxiv.org/pdf/1812.00315.pdf)]
-13. (2018 AJPH) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
-14. (2017 ACL) **Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection.**
+16. (2018 AJPH) **Weaponized Health Communication: Twitter Bots and Russian Trolls Amplify the Vaccine Debate.** *David A Broniatowski, Amelia M Jamison, SiHua Qi, Lulwah AlKulaib, Tao Chen, Adrian Benton, Sandra C Quinn, Mark Dredze.* [[pdf](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2018.304567)]
+17. (2017 ACL) **Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection.**
     _William Yang Wang_. [[pdf](https://aclanthology.org/P17-2067.pdf)]
-15. (2017 EMNLP) **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.**
+18. (2017 EMNLP) **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.**
     _Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi_. [[pdf](https://aclanthology.org/D17-1317.pdf)]
-16. (2017, Journal of economic perspectives) **Social Media and Fake News in the 2016 Election.** *Hunt Allcott, Matthew Gentzkow.* [[pdf](https://web.stanford.edu/~gentzkow/research/fakenews.pdf)]
-17. (2014 ICWSM) **Rumor Cascades.** *Adrien Friggeri, Lada A. Adamic, Dean Eckles, Justin Cheng.* [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8122/8110)]
-18. (2014 iConference) **Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing.**  *Kate Starbird, Jim Maddock, Mania Orand, Peg Achterman, Robert M. Mason.* [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/47257/308_ready.pdf?sequence=2&isAllowed=y)]
-19. (1986, Raritan Quarterly Review) **On Bullshit.** _Harry Frankfurt._ [[pdf](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)]
+19. (2017, Journal of economic perspectives) **Social Media and Fake News in the 2016 Election.** *Hunt Allcott, Matthew Gentzkow.* [[pdf](https://web.stanford.edu/~gentzkow/research/fakenews.pdf)]
+20. (2014 ICWSM) **Rumor Cascades.** *Adrien Friggeri, Lada A. Adamic, Dean Eckles, Justin Cheng.* [[pdf](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8122/8110)]
+21. (2014 iConference) **Rumors, False Flags, and Digital Vigilantes: Misinformation on Twitter after the 2013 Boston Marathon Bombing.**  *Kate Starbird, Jim Maddock, Mania Orand, Peg Achterman, Robert M. Mason.* [[pdf](https://www.ideals.illinois.edu/bitstream/handle/2142/47257/308_ready.pdf?sequence=2&isAllowed=y)]
+22. (1986, Raritan Quarterly Review) **On Bullshit.** _Harry Frankfurt._ [[pdf](http://www2.csudh.edu/ccauthen/576f12/frankfurt__harry_-_on_bullshit.pdf)]
 
 
 ##### Fact-checking
