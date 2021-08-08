@@ -431,6 +431,8 @@ _Firoj Alam, Fahim Dalvi, Shaden Shaar, Nadir Durrani, Hamdy Mubarak, Alex Nikol
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
 1. (2021 ACL Demo) **ChrEnTranslate: Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback.** _Shiyue Zhang, Benjamin Frey, Mohit Bansal_. [[pdf](https://arxiv.org/pdf/2107.14800.pdf)]
+1. (2010 EAMT) **Haitian Creole: How to Build and Ship an MT Engine from Scratch in 4 days, 17 hours, & 30 minutes.**
+_William D. Lewis_. [[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EAMT-05.pdf)]
 
 ### 4.2 NLP for gender/demographical equality
 
@@ -648,6 +650,9 @@ _Firoj Alam, Fahim Dalvi, Shaden Shaar, Nadir Durrani, Hamdy Mubarak, Alex Nikol
 ### Non-Profit Movements
 
 - (EA Movement) 80,000 Hours -> Career advice to design your career time (80,000 hours) in the rational way to optimize social good.
+
+### Start-Ups
+- Wadhwani AI https://www.wadhwaniai.org/
 
 ## Resources of (general) AI for social good
 
