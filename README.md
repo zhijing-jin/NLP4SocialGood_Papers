@@ -94,6 +94,7 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
    [Summary] Four guidelines:  (1) formulate research questions making explicit theories of what “gender” is; (2) avoid modeling gender unless very relevant; (3) make explicit methods for assigning gender categories; and (4) respect the difficulties gender classification
 
 4. (2018 EMNLP; Women researchers' glass ceiling) **The glass ceiling in NLP.** *Natalie Schluter.* [[pdf](https://www.aclweb.org/anthology/D18-1301.pdf)]
+5. (2020 AACL-IJCNLP SRW) **Societal impacts of NLP: How and when to integrate them into your research (and how to make time for that).** _Emily M. Bender_. [[slides](http://faculty.washington.edu/ebender/papers/Bender-AACL-SRW-2020.pdf)]
 
 ## Q1: Can we use NLP to **save** lifes?
 
