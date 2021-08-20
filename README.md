@@ -295,7 +295,7 @@ _Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippol
 
 #### Background
 
-1. (Inmate medical surveilance; Intercept 2020) **Prisons launch "absurd" attempt to detect coronavirus in inmate phone calls.** _Akela Lacy, Alice Speri, Jordan Smith, Sam Biddle._
+1. (Inmate medical surveilance; Intercept 2020) **Prisons launch "absurd" attempt to detect coronavirus in inmate phone calls.** _Akela Lacy, Alice Speri, Jordan Smith, Sam Biddle._[[Article](https://theintercept.com/2020/04/21/prisons-inmates-coronavirus-monitoring-surveillance-verus/)]
 
    [Summary] Automatically downloads, analyzes, and transcribes inmate calls, to identify sick inmates, help allocate personnel in understaffed prisons, and even prevent “COVID-19 related murder.
 
