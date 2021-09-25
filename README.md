@@ -147,7 +147,9 @@ _Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id
 #### Models
 1. (2020 IEEE) **The Ivory Tower Lost: How College Students Respond Differently than the General Public to the COVID-19 Pandemic.**
    _Viet Duong, Phu Pham, Tongyu Yang, Yu Wang, Jiebo Luo_. [[pdf](https://arxiv.org/pdf/2004.09968.pdf)]
-2. (2018 ACL) **Domain Adaptation with Adversarial Training and Graph Embeddings.** _Firoj Alam, Shafiq Joty, Muhammad Imran_  [[pdf](https://aclanthology.org/P18-1099.pdf)]
+2. (2020 IEEE) **The Ivory Tower Lost: How College Students Respond Differently than the General Public to the COVID-19 Pandemic.**
+   _Viet Duong, Phu Pham, Tongyu Yang, Yu Wang, Jiebo Luo_. [[pdf](https://arxiv.org/pdf/2004.09968.pdf)]
+3. (2018 ACL) **Domain Adaptation with Adversarial Training and Graph Embeddings.** _Firoj Alam, Shafiq Joty, Muhammad Imran_  [[pdf](https://aclanthology.org/P18-1099.pdf)]
 
 
 ### 1.3 NLP to detect armed conflicts
