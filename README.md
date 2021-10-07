@@ -465,6 +465,8 @@ _William D. Lewis_. [[pdf](https://www.microsoft.com/en-us/research/wp-content/u
 
 ## Q5: Are there concerns over the practice of NLP? Can we mitigate this?
 
+1. **AI Incident Database.** _Partnership AI_. https://incidentdatabase.ai/ 
+
 ### 5.1 Prevent future scandals of conversational bots - How dialog systems should handle verbal abuse
 
 1. (2016, International Journal of Communication) **Talking to Bots: Symbiotic Agency and the Case of Tay.**
