@@ -111,22 +111,34 @@ Defending/fixing issues that is within (or closely co-occur with/caused by) NLP 
 
 #### NLP on clinical notes
 
-1. (2017 JAMIA) **De-identification of patient notes with recurrent neural networks**. _Franck Dernoncourt, Ji Young Lee, Ozlem Uzuner, Peter Szolovits_.
-   [[pdf](https://arxiv.org/pdf/1606.03475)]
+1. (2021 PSB Oral, Intimate Partner Violence prediction) **Intimate Partner Violence and Injury Prediction From Radiology Reports.** _Irene Y. Chen, Emily Alsentzer, Hyesun Park, Richard Thomas, Babina Gosangi, Rahul Gujrathi, Bharti Khurana_. [[pdf](https://arxiv.org/pdf/2009.09084.pdf)]
+1. (2020, Machine Learning for Healthcare) **Fast, Structured Clinical Documentation via Contextual Autocomplete.** _Divya Gopinath, Monica Agrawal, Luke Murray, Steven Horng, David Karger, David Sontag_. [[pdf](https://arxiv.org/pdf/2007.15153)]
+1. (2020 AAHPM; NER for heart disease patients) **An Artificial Intelligence Algorithm to Identify Documented Symptoms in Patients with Heart Failure who Received Cardiac Resynchronization Therapy** _Richard Leiter, Enrico Santus, Zhijing Jin, Katherine Lee, Miryam Yusufov, Isabel Chien, Ashwin Ramaswamy, Edward Moseley, Yujie Qian, Deborah Schrag, Charlotta Lindvall_. [[abstract](https://www.sciencedirect.com/science/article/pii/S0885392420305248?casa_token=8RfqMdn4AC0AAAAA:qDJ7TTlb1r8YItKnwp5bzPQiiY7OIKZhZFnkb9HgM2irMNWSN1TPIl15vjRjG7ZgN9nLZ7gf)] [[paper](http://zhijing-jin.com/files/papers/NLP_for_CRT.pdf)]
+1. (2020 MLH) **UPSTAGE: Unsupervised Context Augmentation for Utterance Classification in Patient-Provider Communication.** *Do June Min, Veronica Perez-Rosas, Shihchen Kuo, William H. Herman, Rada Mihalcea*. [[pdf](http://proceedings.mlr.press/v126/min20a/min20a.pdf)]
+1. (2020 IAAI) **A System for Medical Information Extraction and Verification from Unstructured Text.** _Damir Juric, Giorgos Stoilos, Andre Melo, Jonathan Moore, Mohammad Khodadadi_. [[pdf](https://ojs.aaai.org//index.php/AAAI/article/view/7042)]
+1. (2020 Front. Cell Dev. Biol.) **Named Entity Recognition and Relation Detection for Biomedical Information Extraction**
+_Nadeesha Perera, Matthias Dehmer, Frank Emmert-Streib_. [[pdf](https://www.frontiersin.org/articles/10.3389/fcell.2020.00673/full)]
+1. (2020 Yearb Med Inform) **Medical Information Extraction in the Age of Deep Learning.**
+_Udo Hahn, Michel Oleynik_. [[pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7442512/)]
+1. (2020) **Information Extraction from Unstructured Electronic Health Records and Integration into a Data Warehouse.** _Georg Fette, Maximilian Ertl, Anja Wörner, Peter Kluegl, Stefan Störk, Frank Puppe_. [[pdf](https://www.sciencedirect.com/science/article/pii/S1532046420301544)]
+1. (2019 arXiv) **Clinical Concept Extraction: A Methodology Review.**
+_Sunyang Fu, David Chen, Huan He, Sijia Liu, Sungrim Moon, Kevin J Peterson, Feichen Shen, Liwei Wang, Yanshan Wang, Andrew Wen, Yiqing Zhao, Sunghwan Sohn, Hongfang Liu_. [[pdf](https://arxiv.org/pdf/1910.11377.pdf)]
+3. (2019 Journal of the American Medical Informatics Association) **Detecting conversation topics in pri- mary care office visits from transcripts of patient-provider interactions.** _Jihyun Park, Dimitrios Kotzias, Patty Kuo, Robert L Logan IV, Kritzia Merced, Sameer Singh, Michael Tanana, Efi Karra Taniskidou, Jennifer Elston Lafata, David C Atkins, Ming Tai-Seale, Zac E Imel, and Padhraic Smyth._ [[pdf](https://doi.org/10.1093/jamia/ocz140)]
+1. (2018) **Clinical information extraction applications: A literature review.**
+_Yanshan Wang, Liwei Wang, Majid Rastegar-Mojarad, Sungrim Moon, Feichen Shen, Naveed Afzal, Sijia Liu, Yuqun Zeng, Saeed Mehrabi, Sunghwan Sohn, Hongfang Liu_. [[pdf](https://www.sciencedirect.com/science/article/pii/S1532046417302563)]
 2. (2018 JAMIA) **Segment convolutional neural networks (Seg-CNNs) for classifying relations in clinical notes.** _Yuan Luo, Yu Cheng, Özlem Uzuner, Peter Szolovits, Justin Starren_. [[pdf](http://groups.csail.mit.edu/medg/ftp/psz-papers/J%20Am%20Med%20Inform%20Assoc%202017%20Luo.pdf)]
-3. (2020, Machine Learning for Healthcare) **Fast, Structured Clinical Documentation via Contextual Autocomplete.** _Divya Gopinath, Monica Agrawal, Luke Murray, Steven Horng, David Karger, David Sontag_. [[pdf](https://arxiv.org/pdf/2007.15153)]
-4. (2020 AAHPM; NER for heart disease patients) **An Artificial Intelligence Algorithm to Identify Documented Symptoms in Patients with Heart Failure who Received Cardiac Resynchronization Therapy** _Richard Leiter, Enrico Santus, Zhijing Jin, Katherine Lee, Miryam Yusufov, Isabel Chien, Ashwin Ramaswamy, Edward Moseley, Yujie Qian, Deborah Schrag, Charlotta Lindvall_. [[abstract](https://www.sciencedirect.com/science/article/pii/S0885392420305248?casa_token=8RfqMdn4AC0AAAAA:qDJ7TTlb1r8YItKnwp5bzPQiiY7OIKZhZFnkb9HgM2irMNWSN1TPIl15vjRjG7ZgN9nLZ7gf)] [[paper](http://zhijing-jin.com/files/papers/NLP_for_CRT.pdf)]
-5. (2021 PSB Oral, Intimate Partner Violence prediction) **Intimate Partner Violence and Injury Prediction From Radiology Reports.** _Irene Y. Chen, Emily Alsentzer, Hyesun Park, Richard Thomas, Babina Gosangi, Rahul Gujrathi, Bharti Khurana_. [[pdf](https://arxiv.org/pdf/2009.09084.pdf)]
-6. (2020 MLH) **UPSTAGE: Unsupervised Context Augmentation for Utterance Classification in Patient-Provider Communication.** *Do June Min, Veronica Perez-Rosas, Shihchen Kuo, William H. Herman, Rada Mihalcea*. [[pdf](http://proceedings.mlr.press/v126/min20a/min20a.pdf)]
 1. (2018 Artificial Intelligence in Health) **Identification of Serious Illness Conversations in Unstructured Clinical Notes Using Deep Neural Networks.** _Isabel Chien, Alvin Shi, Alex Chan, Charlotta Lindvall_. [[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-030-12738-1.pdf)]
-1. (2019 Journal of the American Medical Informatics Association) **Detecting conversation topics in pri- mary care office visits from transcripts of patient-provider interactions.** _Jihyun Park, Dimitrios Kotzias, Patty Kuo, Robert L Logan IV, Kritzia Merced, Sameer Singh, Michael Tanana, Efi Karra Taniskidou, Jennifer Elston Lafata, David C Atkins, Ming Tai-Seale, Zac E Imel, and Padhraic Smyth._ [[pdf](https://doi.org/10.1093/jamia/ocz140)]
-1. (2013 Diabetes Care) **Rationale and design of the glycemia reduction approaches in diabetes: A comparative effectiveness study (GRADE).** _David M. Nathan, John B. Buse, Steven E. Kahn, Heidi Krause-Steinrauf, Mary E. Larkin, Myrlene Staten, Deborah Wexler, John M. Lachin, and the GRADE research group_. [[pdf](https://care.diabetesjournals.org/content/36/8/2254.full-text.pdf)]
+1. (2017 JAMIA) **De-identification of patient notes with recurrent neural networks**. _Franck Dernoncourt, Ji Young Lee, Ozlem Uzuner, Peter Szolovits_. [[pdf](https://arxiv.org/pdf/1606.03475)]
+1. (2015 Journal of Information Technology Research) **Information Extraction in the Medical Domain.** _Ghalem Belalem, Fatiha Barigou, Aicha Ghoulam_. [[pdf](https://dl.acm.org/doi/abs/10.4018/jitr.2015040101)]
+4. (2013 Diabetes Care) **Rationale and design of the glycemia reduction approaches in diabetes: A comparative effectiveness study (GRADE).** _David M. Nathan, John B. Buse, Steven E. Kahn, Heidi Krause-Steinrauf, Mary E. Larkin, Myrlene Staten, Deborah Wexler, John M. Lachin, and the GRADE research group_. [[pdf](https://care.diabetesjournals.org/content/36/8/2254.full-text.pdf)]
 
 #### NLP to facilitate biomedical research
 
-1. **CORD-19: The COVID-19 Open Research Dataset.**
+1. (2020 arXiv) **CORD-19: The COVID-19 Open Research Dataset.**
    _Lucy Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang, Doug Burdick, Darrin Eide, Kathryn Funk, Yannis Katsis, Rodney Kinney, Yunyao Li, Ziyang Liu, William Merrill, Paul Mooney, Dewey Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shen, Brandon Stilson, Alex Wade, Kuansan Wang, Nancy Xin Ru Wang, Chris Wilhelm, Boya Xie, Douglas Raymond, Daniel S. Weld, Oren Etzioni, Sebastian Kohlmeier_.
    [[pdf](https://arxiv.org/pdf/2004.10706.pdf)]
+
+1. (2018 LREC) **BioRead: A New Dataset for Biomedical Reading Comprehension.** _Dimitris Pappas, Ion Androutsopoulos, Haris Papageorgiou_. [[pdf](https://aclanthology.org/L18-1439.pdf)]
 
 #### NLP to help reduce bias in Healthcare
 
