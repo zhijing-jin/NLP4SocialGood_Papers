@@ -56,10 +56,12 @@ This is a reading list of papers on NLP for Social Good.
 
 1. [Workshop] **NLP for Positive Impact**@ACL 2021 [[Website](https://sites.google.com/view/nlp4positiveimpact2021)]
    Organized by _Anjalie Field, Shrimai Prabhumoye, Maarten Sap, Zhijing Jin, Jieyu Zhao, Chris Brockett_.
-2. AAAI has the Special Track on AI for Social Impact [[Call for Papers by Sept 8, 2021](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)]
-3. ACL 2021 has the new theme track "NLP for Social Good." Accepted papers will be discussed at ACL 2021.
-
-3. Ethics in NLP - ACL Wiki. [[Website](https://aclweb.org/aclwiki/Ethics_in_NLP)]
+1. "NLP for Social Good Initiative" runs many events related to NLP4SG, and it also has a set of resources & networks related to NLP4SG. (2021 - now) [[Website](https://nlp4sg.vercel.app/)]
+  <br>This website includes [a visualization of all NLP4SG papers](https://nlp4sg.vercel.app/papers), Twitter @[nlp4sg](https://twitter.com/nlp4sg), and many other resources
+3. AAAI has the Special Track on AI for Social Impact [[Call for Papers by Sept 8, 2021](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)]
+4. VIS 2021 has a workshop on Visualization for Social Good [[Website](https://vis4good.github.io/resources)] [[2021 Video](https://www.youtube.com/watch?v=eo22Xg6MCmk&ab_channel=IEEEVisualizationConference)]
+5. Ethics in NLP - ACL Wiki. [[Website](https://aclweb.org/aclwiki/Ethics_in_NLP)]
+6. ACL 2021 has the new theme track "NLP for Social Good."
 
 ### Overview Papers
 
