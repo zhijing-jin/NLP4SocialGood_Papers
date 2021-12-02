@@ -54,9 +54,9 @@ This is a reading list of papers on NLP for Social Good.
 
 ### Events and News
 
-1. [Workshop] **NLP for Positive Impact**@ACL 2021 [[Website](https://sites.google.com/view/nlp4positiveimpact2021)]
+1. [Workshop] Annual Workshop on **NLP for Positive Impact** (EMNLP 2022, ACL 2021) [[Website](https://sites.google.com/view/nlp4positiveimpact2021)]
    Organized by _Anjalie Field, Shrimai Prabhumoye, Maarten Sap, Zhijing Jin, Jieyu Zhao, Chris Brockett_.
-1. "NLP for Social Good Initiative" runs many events related to NLP4SG, and it also has a set of resources & networks related to NLP4SG. (2021 - now) [[Website](https://nlp4sg.vercel.app/)]
+1. **"NLP for Social Good Initiative"** runs many events related to NLP4SG, and it also has a set of resources & networks related to NLP4SG. (2021 - now) [[Website](https://nlp4sg.vercel.app/)]
   <br>This website includes [a visualization of all NLP4SG papers](https://nlp4sg.vercel.app/papers), Twitter @[nlp4sg](https://twitter.com/nlp4sg), and many other resources
 3. AAAI has the Special Track on AI for Social Impact [[Call for Papers by Sept 8, 2021](https://aaai.org/Conferences/AAAI-22/aiforsocialimpactcall/)]
 4. VIS 2021 has a workshop on Visualization for Social Good [[Website](https://vis4good.github.io/resources)] [[2021 Video](https://www.youtube.com/watch?v=eo22Xg6MCmk&ab_channel=IEEEVisualizationConference)]
@@ -70,6 +70,9 @@ This is a reading list of papers on NLP for Social Good.
    [[pdf](https://arxiv.org/pdf/2106.02359.pdf)]
 
 2. (2020 ACL) **Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?.** *Kobi Leins, Jey Han Lau, Timothy Baldwin.* [[pdf](https://www.aclweb.org/anthology/2020.acl-main.261.pdf)]
+
+#### Videos
+1. (2021 -- now) **Videos by senior researchers on their view in NLP for Social Good.** [[YouTube](https://www.youtube.com/playlist?list=PLtVBX_ld338UDIcEtAhvawfBHYmMRbuLE)]
 
 #### Overview of proactive NLP to help social good
 
