@@ -450,13 +450,15 @@ _Firoj Alam, Fahim Dalvi, Shaden Shaar, Nadir Durrani, Hamdy Mubarak, Alex Nikol
 **[Main focus]** Spreading the benefit of NLP to low-resource languages; equal gender ratio.
 
 #### Motivation
-
-1. (2020 ACL) **The State and Fate of Linguistic Diversity and Inclusion in the NLP World.** *Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali, and Monojit Choudhury.* [[pdf](https://arxiv.org/pdf/2004.09095.pdf)]
+1. (2021 arXiv) **Systematic Inequalities in Language Technology Performance across the World's Languages.**
+_Damián Blasi, Antonios Anastasopoulos, Graham Neubig_. [[pdf](https://arxiv.org/pdf/2110.06733.pdf)]
+1. (2020 ACL) **The State and Fate of Linguistic Diversity and Inclusion in the NLP World.** *Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali, Monojit Choudhury*. [[pdf](https://arxiv.org/pdf/2004.09095.pdf)]
 
    [Summary] Only very few out of >7000 languages are represented in NLP.
 1. (2021 ACL Demo) **ChrEnTranslate: Cherokee-English Machine Translation Demo with Quality Estimation and Corrective Feedback.** _Shiyue Zhang, Benjamin Frey, Mohit Bansal_. [[pdf](https://arxiv.org/pdf/2107.14800.pdf)]
 1. (2010 EAMT) **Haitian Creole: How to Build and Ship an MT Engine from Scratch in 4 days, 17 hours, & 30 minutes.**
 _William D. Lewis_. [[pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/EAMT-05.pdf)]
+
 
 ### 4.2 NLP for gender/demographical equality
 
