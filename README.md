@@ -269,7 +269,7 @@ _Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id
 3. (2019, AffCon@AAAI) **Ingredients for Happiness: Modeling constructs via semi-supervised content driven inductive transfer.** *Bakhtiyar Syed, Vijayasaradhi Indurthi, Kulin Shah, Manish Gupta, Vasudeva Varma*. [[pdf](http://ceur-ws.org/Vol-2328/4_paper_19.pdf)]
 
 
-#### Mental health on social media (e.g., hate speech, hope speech)
+#### Mental health on social media (e.g., hate speech, hope speech, counter speech)
 
 1. (2020 COLING Workshop) **HopeEDI: A Multilingual Hope Speech Detection Dataset for Equality, Diversity, and Inclusion.** _Bharathi Raja Chakravarthi_. [[pdf](https://www.aclweb.org/anthology/2020.peoples-1.5.pdf)]
 
@@ -278,6 +278,12 @@ _Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id
 1. **Fermi at SemEval-2019 Task 5: Using Sentence Embeddings to identify Hate Speech against Immigrants and Women on Twitter.**. *Vijayasaradhi Indurthi, Bakhtiyar Syed, Manish Shrivastava, Nikhil Chakravartula, Manish Gupta, Vasudeva Varma*. [[pdf](https://www.aclweb.org/anthology/S19-2009.pdf)]
 
 2. **Fermi at SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media using Sentence Embeddings.** *Vijayasaradhi Indurthi, Bakhtiyar Syed, Manish Shrivastava, Manish Gupta, Vasudeva Varma*. [[pdf](https://www.aclweb.org/anthology/S19-2109.pdf)]
+
+3. **CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech.** *Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu, and Marco Guerini.* [[pdf](https://www.aclweb.org/anthology/P19-1271.pdf)]
+
+4. **Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.** *Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini.* [[pdf](https://aclanthology.org/2021.findings-acl.79.pdf)]
+
+5. **Empowering NGOs in Countering Online Hate Messages.** *Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini* [[pdf](https://arxiv.org/pdf/2107.02472.pdf)]
 
 #### Mental health through other text forms
 
