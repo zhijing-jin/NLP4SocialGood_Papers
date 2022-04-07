@@ -279,11 +279,11 @@ _Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id
 
 2. **Fermi at SemEval-2019 Task 6: Identifying and Categorizing Offensive Language in Social Media using Sentence Embeddings.** *Vijayasaradhi Indurthi, Bakhtiyar Syed, Manish Shrivastava, Manish Gupta, Vasudeva Varma*. [[pdf](https://www.aclweb.org/anthology/S19-2109.pdf)]
 
-3. **CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech.** *Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu, and Marco Guerini.* [[pdf](https://www.aclweb.org/anthology/P19-1271.pdf)]
+3. (2019 ACL) **CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech.** *Yi-Ling Chung, Elizaveta Kuzmenko, Serra Sinem Tekiroğlu, and Marco Guerini.* [[pdf](https://www.aclweb.org/anthology/P19-1271.pdf)]
 
-4. **Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.** *Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini.* [[pdf](https://aclanthology.org/2021.findings-acl.79.pdf)]
+4. (2021 ACL Findings) **Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech.** *Yi-Ling Chung, Serra Sinem Tekiroğlu, and Marco Guerini.* [[pdf](https://aclanthology.org/2021.findings-acl.79.pdf)]
 
-5. **Empowering NGOs in Countering Online Hate Messages.** *Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini* [[pdf](https://arxiv.org/pdf/2107.02472.pdf)]
+5. (2021 Journal of Online Social Networks and Media) **Empowering NGOs in Countering Online Hate Messages.** *Yi-Ling Chung, Serra Sinem Tekiroğlu, Sara Tonelli, and Marco Guerini* [[pdf](https://arxiv.org/pdf/2107.02472.pdf)]
 
 #### Mental health through other text forms
 
