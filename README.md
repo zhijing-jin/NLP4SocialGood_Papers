@@ -21,6 +21,7 @@ This is a reading list of papers on NLP for Social Good.
   - [2.1 Knowledge is power - NLP for education](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#21-nlp-for-education)
   - [2.2 How to make people happier? - NLP for mental health](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#22-nlp-for-mental-health)
     - [Psychotherapy and counseling](#psychotherapy-and-counseling), [NLP for happiness](#nlp-for-happiness), [Mental health on social media (e.g., hate speech, hope speech, counter speech)](#mental-health-on-social-media-eg-hate-speech-hope-speech-counter-speech), [Mental health through other text forms](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#mental-health-through-other-text-forms), [Workshops and Resources](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#workshops-and-resources)
+  - [2.3 NLP for Political Decision-Making](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#23-nlp-for-policitcal-decision-making)
 - [Q3: Can we use NLP to **help the common future** of all humans?](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#q3-can-we-use-nlp-to-help-the-common-future-of-all-humans)
   - [3.1 NLP for climate change](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#31-nlp-for-climate-change)
   - [3.2 NLP for Human Rights](https://github.com/zhijing-jin/NLP4SocialGood_Papers/blob/main/README.md#32-nlp-for-human-rights)
@@ -295,6 +296,23 @@ _Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id
 1. (Every year) CLPsych: Computational Linguistics and Clinical Psychology Workshop [[website](https://clpsych.org/)]
 
 2. Research Fellowship Program (3-6 months) [[FAQ](https://docs.google.com/document/d/1_uQrOapzwy1JA8j38PX9unXDC_dzMyO7HT9jnhjxLEY/edit)]
+
+### 2.3 NLP for Political Decision-Making
+1. (2017 ACL Workshop) **200K+ Crowdsourced Political Arguments for a New Chilean Constitution.**
+_Constanza Fierro, Claudio Fuentes, Jorge Pérez, Mauricio Quezada_.
+[[pdf](https://aclanthology.org/W17-5101.pdf)]
+
+1. (2021 EMNLP Findings) **Mining the Cause of Political Decision-Making from Social Media: A Case Study of COVID-19 Policies across the US States.**
+_Zhijing Jin, Zeyu Peng, Tejas Vaidhya, Bernhard Schoelkopf, Rada Mihalcea_.
+[[pdf](https://aclanthology.org/2021.findings-emnlp.27.pdf)]
+
+1. (2022 Book Chapter) **Natural Language Processing for Policymaking.**
+_Zhijing Jin, Rada Mihalcea_.
+[[pdf](https://drive.google.com/file/d/1gYzL_Fy0g9aQ-vw7DBU_Wpb0z6GN6dHF/view?usp=sharing)]
+
+1. (2020 EMNLP Findings) **Learning to Classify Events from Human Needs Category Descriptions.**
+_Haibo Ding, Zhe Feng_.
+[[pdf](https://aclanthology.org/2020.findings-emnlp.421.pdf)]
 
 ## Q3: Can we use NLP to **help the common future** of all humans?
 
