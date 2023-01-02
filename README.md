@@ -331,6 +331,7 @@ _Francesco S. Varini, Jordan Boyd-Graber, Massimiliano Ciaramita, Markus Leippol
 6. (2017 EMNLP Workshop) **Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.**
    _Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, Diana Maynard_. [[pdf](https://www.aclweb.org/anthology/W17-4205.pdf)]
 5. (2020 ICWSM Workshop) **Learning Twitter User Sentiments on Climate Change with Limited Labeled Data** _Allison Koenecke, Jordi Feliu-Fabà_. [[pdf](https://arxiv.org/pdf/1904.07342.pdf)]
+6. (2022 EMNLP Workshop) **A Dataset of Sustainable Diet Arguments on Twitter** _Marcus Astrup Hansen, Daniel Hershcovich_. [[pdf](https://danielhers.github.io/sustainabletweets.pdf)]
 
 ### 3.2 NLP for Human Rights
 
@@ -679,6 +680,7 @@ _William D. Lewis_. [[pdf](https://www.microsoft.com/en-us/research/wp-content/u
 1. (ACL 2019) **Energy and policy considerations for deep learning in NLP.** _Emma Strubell, Ananya Ganesh, Andrew McCallum_. [[pdf](https://www.aclweb.org/anthology/P19-1355.pdf)] [[video](https://vimeo.com/384787604)]
 2. (CACM 2020) **Green AI.** _Roy Schwartz, Jesse Dodge, Noah A Smith, Oren  Etzioni_. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3381831)] [[video](https://www.youtube.com/watch?v=KnOpWgUCtaM&ab_channel=AssociationforComputingMachinery%28ACM%29)]
 3. (arXiv 2020) **Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning.** _Peter Henderson, Jieru Hu, Joshua Romoff, Emma Brunskill, Dan Jurafsky, Joelle Pineau_ [[pdf](https://arxiv.org/pdf/2002.05651.pdf)]
+4. (EMNLP 2022) **Towards Climate Awareness in NLP Research.** _Daniel Hershcovich, Nicolas Webersinke, Mathias Kraus, Julia Anna Bingler, Markus Leippold_. [[pdf](https://arxiv.org/pdf/2205.05071)]
 
 ### 5.5 Be alert of recommendation systems
 
