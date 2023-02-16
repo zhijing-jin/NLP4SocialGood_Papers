@@ -195,6 +195,10 @@ _Firoj Alam, Ferda Ofli and Muhammad Imran_ [[pdf](https://openreview.net/pdf?id
 
 ### 2.1 NLP for Education
 
+1. (2023 EdArXiv) **ChatGPT for Good? On Opportunities and Challenges of Large Language Models for Education.**
+_Enkelejda KasneciKathrin SeßlerStefan KüchemannMaria BannertDaryna DementievaFrank FischerUrs GasserGeorg GrohStephan GünnemannEyke HüllermeierStephan KruscheGitta KutyniokTilman MichaeliClaudia NerdelJürgen PfefferOleksandra PoquetMichael SailerAlbrecht SchmidtTina SeidelMatthias StadlerJochen WellerJochen KuhnGjergji Kasneci_.
+[[pdf](https://www.edu.sot.tum.de/fileadmin/w00bed/hctl/_my_direct_uploads/ChatGPT_for_Good_.pdf)]
+
 1. (2021 EACL Workshop) 16th Workshop on Innovative Use of NLP for Building Educational Applications [[website](https://sig-edu.org/bea/current)]
 
 #### Improving textbooks
