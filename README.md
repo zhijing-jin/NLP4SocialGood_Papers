@@ -1,4 +1,4 @@
-# Must-Read Papers (and Various Resources) on NLP for Social Good
+# An Extensive Paper List (and Various Resources) on *NLP for Social Good*
 
 This is a reading list of papers on NLP for Social Good.
 
